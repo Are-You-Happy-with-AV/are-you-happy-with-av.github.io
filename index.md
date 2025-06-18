@@ -53,7 +53,7 @@ To submit an extended abstract, you must have the following items readily availa
 
 <img src="/assets/committee/Hailong liu.jpg" style="padding: 10px;" width="200" height="250"> |  <img src="/assets/committee/Hao Cheng.jpg" style="padding: 10px;" width="200" height="250"> | <img src="/assets/committee/Wenhao Luo.png" style="padding: 10px;" width="200" height="250"> | <img src="/assets/committee/Wenlong Zhang.png" style="padding: 10px;" width="200" height="250">|
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-Associate Professor <br> Nara Institute of Science and Technology, Japan | Assistant Professor <br> University of Twente, The Netherlands | Assistant Professor <br> University of Illinois Chicago (UIC), USA | Associate Professor <br> Arizona State University, USA
+Associate Professor <br> Nara Institute of Science and Technology (NAIST), Japan | Assistant Professor <br> University of Twente, The Netherlands | Assistant Professor <br> University of Illinois Chicago (UIC), USA | Associate Professor <br> Arizona State University, USA
 
 <img src="/assets/committee/Fang You.jpg" style="padding: 10px;" width="200" height="250"> |  <img src="/assets/committee/Jianmin Wang.jpg" style="padding: 10px;" width="200" height="250"> | <img src="/assets/committee/Junmin Wang.jpg" style="padding: 10px;" width="200" height="250"> 
 :-------------------------:|:-------------------------:|:-------------------------:
