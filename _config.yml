@@ -93,9 +93,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Are you Happy with AV" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "The prospect of wide-scale development of automated vehicles (AVs) is due to advances in, e.g., robotics, computational power, communications, sensor technologies, and the recognition performance by using artificial intelligence technology. AV brings novel interactions to human users as drivers, passengers, and other human traffic partners undoubtedly. Human-machine interface (HMI) and recommendations of AV kinematics behavior have been widely studied to build appropriate interaction and communication between AV and human users to calibrate trust and improve actual and perceived safety,  efficiency, comfort, prosociality, etc. User experience (UX) correlates trust and has mutual influence with multiple factors, including motion sickness, comfort, and other subjective feelings. However, it is still unclear how to achieve a better-integrated user experience in AV-human interactions. How UX and other human factors influence each other is widely unknown. This workshop aims to bring together multidisciplinary researchers from academia and industry to discuss the impact factors and potential approaches to improve user experience inside and outside automated vehicles. It is an open platform that includes interdisciplinary researchers from engineering, cognitive psychology, computer science, informatics, sociology, and design to integrate the ideas and obtain inspirations." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
