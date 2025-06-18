@@ -1,8 +1,8 @@
 ---
-title: About Alembic
+title: IEEE/RSJ IROS 2025 Workshop on Are You Happy with AV ?
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## User Experience (UX) in AV-Human Interaction
+  9:00-18:00, Oct 20, 2025 @ Room 403 （分会场 25）
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
