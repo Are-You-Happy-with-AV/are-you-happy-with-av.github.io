@@ -1,6 +1,7 @@
 ---
-title: IEEE/RSJ IROS 2025 Workshop on Are You Happy with AV ?
+title: Are You Happy with AV?
 feature_text: |
+  ## IEEE/RSJ IROS 2025 Workshop on Are You Happy with AV?
   ## User Experience (UX) in AV-Human Interaction
   9:00-18:00, Oct 20, 2025 @ Room 403 （分会场 25）
 feature_image: "https://picsum.photos/1300/400?image=989"
