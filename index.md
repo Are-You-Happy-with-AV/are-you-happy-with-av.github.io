@@ -51,7 +51,7 @@ To submit an extended abstract, you must have the following items readily availa
 
 ## Committee
 
-<img src="/assets/committee/Hailong liu.jpg" width="150" height="250"> |  ![Hao Cheng](/assets/committee/Hao Cheng.jpg = 100x250) | ![Wenhao Luo](/assets/committee/Wenhao Luo.png = 100x250)| ![Wenlong Zhang](/assets/committee/Wenlong Zhang.png = 100x250)
+<img src="/assets/committee/Hailong liu.jpg" width="200" height="250"> |  ![Hao Cheng](/assets/committee/Hao Cheng.jpg = 100x250) | ![Wenhao Luo](/assets/committee/Wenhao Luo.png = 100x250)| ![Wenlong Zhang](/assets/committee/Wenlong Zhang.png = 100x250)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 HaiLong Liu  |  Hao Cheng |  Wenhao Luo |  Wenlong Zhang
 
