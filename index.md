@@ -52,7 +52,7 @@ To submit an extended abstract, you must have the following items readily availa
 ## Committee
 <style scoped>
 table {
-  font-size: 13px;
+  font-size: 8px;
 }
 </style>
 
