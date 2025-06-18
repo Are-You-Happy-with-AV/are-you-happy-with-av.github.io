@@ -3,7 +3,7 @@ title: Are You Happy with AV?
 feature_text: |
   ## IEEE/RSJ IROS 2025 Workshop on Are You Happy with AV?
   ## <p style="color:white">User Experience (UX) in AV-Human Interaction</p> 
-  <font color="yellow">9:00-18:00, Oct 20, 2025 @ Room 403 （分会场 25</font> 
+  <font color="yellow">9:00-18:00, Oct 20, 2025 @ Room 403 (分会场 25)</font> 
 feature_image: "https://www.iros25.org/static/upload/4f523a64-7818-4af1-8289-9a68ec473b14.png"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
