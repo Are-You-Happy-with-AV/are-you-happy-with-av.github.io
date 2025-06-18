@@ -53,12 +53,12 @@ To submit an extended abstract, you must have the following items readily availa
 <div class="grid cards" markdown>
 
 
-    ![](/assets/Weixin Image_20250618140719_194.png)
+    ![Hailong liu]("/assets/committee/Hailong liu.jpg")
 
 -   Daily distance post-challenge
 
     ---
-    ![](/assets/Weixin Image_20250618140719_194.png)
+    ![Hao Cheng]("/assets/committee/Hao Cheng.jpg")
 
 -   Daily distance last month of challenge
 
