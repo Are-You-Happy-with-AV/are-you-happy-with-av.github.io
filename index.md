@@ -53,6 +53,8 @@ To submit an extended abstract, you must have the following items readily availa
 
 <img src="/assets/committee/Hailong liu.jpg" style="padding: 10px;" width="200" height="250"> |  <img src="/assets/committee/Hao Cheng.jpg" style="padding: 10px;" width="200" height="250"> | <img src="/assets/committee/Wenhao Luo.png" style="padding: 10px;" width="200" height="250">| <img src="/assets/committee/Wenlong Zhang.png" style="padding: 10px;" width="200" height="250">
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-HaiLong Liu  |  Hao Cheng |  Wenhao Luo |  Wenlong Zhang
+[HaiLong Liu](https://www.researchgate.net/profile/Hailong_Liu9)  |  [Hao Cheng](https://sites.google.com/view/hao-cheng/home) |  [Wenhao Luo](https://www.cs.uic.edu/~wenhao/) |  [Wenlong Zhang](https://home.riselab.info/team/)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Associate Professor, Nara Institute of Science and Technology (NAIST) Japan | Assistant Professor, University of Twente The Netherlands | Assistant Professor, University of Illinois Chicago (UIC) USA |Associate Professor, Arizona State University, USA
 
 
