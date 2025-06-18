@@ -50,5 +50,29 @@ To submit an extended abstract, you must have the following items readily availa
 - The accepted workshop poster and its extended abstract will be published on the workshop website, but they will NOT be included in the IROS 2025 proceedings or published on IEEE Xplore. 
 
 ## Committee
+<div class="grid cards" markdown>
+
+
+    ![](/assets/Weixin Image_20250618140719_194.png)
+
+-   Daily distance post-challenge
+
+    ---
+    ![](/assets/Weixin Image_20250618140719_194.png)
+
+-   Daily distance last month of challenge
+
+    ---
+    ![](/assets/Weixin Image_20250618140719_194.png)
+
+-   Daily step count last month of challenge
+
+    ---
+    ![](/assets/Weixin Image_20250618140719_194.png)
+-   Daily distance entire challenge
+
+    ---
+
+</div>
 
 
