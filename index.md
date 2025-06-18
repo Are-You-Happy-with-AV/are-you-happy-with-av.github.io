@@ -50,6 +50,11 @@ To submit an extended abstract, you must have the following items readily availa
 - The accepted workshop poster and its extended abstract will be published on the workshop website, but they will NOT be included in the IROS 2025 proceedings or published on IEEE Xplore. 
 
 ## Committee
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
 
 <img src="/assets/committee/Hailong liu.jpg" style="padding: 10px;" width="150" height="250"> |  <img src="/assets/committee/Hao Cheng.jpg" style="padding: 10px;" width="150" height="250"> | <img src="/assets/committee/Wenhao Luo.png" style="padding: 10px;" width="150" height="250"> | <img src="/assets/committee/Wenlong Zhang.png" style="padding: 10px;" width="150" height="250">|
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
@@ -59,6 +64,8 @@ Associate Professor <br> Nara Institute of Science and <br> Technology, Japan| A
 :-------------------------:|:-------------------------:|:-------------------------:
 [Fang You](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en)  |  [Jianmin Wang](https://am.tongji.edu.cn/info/1397/1842.htm) |  [Junmin Wang](https://sites.utexas.edu/jwang/) 
 Professor, University of Tongji, China | Professor, University of Tongji, China | Professor, University of Texas at Austin, USA
+
+
 
 
 
