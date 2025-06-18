@@ -50,6 +50,10 @@ To submit an extended abstract, you must have the following items readily availa
 - The accepted workshop poster and its extended abstract will be published on the workshop website, but they will NOT be included in the IROS 2025 proceedings or published on IEEE Xplore. 
 
 ## Committee
+<figure markdown>
+  ![Hailong liu](../assets/committee/Hailong liu.jpg){ width=150 } ![Hao Cheng](../assets/committee/Hailong liu.jpg){ width=150 } 
+</figure>
+
 <div class="grid cards" markdown>
 
 
