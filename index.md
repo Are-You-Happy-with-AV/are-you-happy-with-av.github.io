@@ -42,31 +42,31 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 
 #### Peer-reviewed and Publication
 - The extended abstract of the workshop poster will be peer-reviewed.
-- Submittion open: 2025/06/06
-- Submittion DDL: 2025/08/15
-- Notification:  2025/09/01
+- Submittion open: <font color="red">2025/06/06</font>
+- Submittion DDL: <font color="red">2025/08/15</font>
+- Notification:  <font color="red">2025/09/01</font>
 - The accepted workshop poster and its extended abstract will be published on the workshop website, but they will NOT be included in the IROS 2025 proceedings or published on IEEE Xplore. 
 
 ## Committee
  <div style="display: flex; justify-content: center; text-align: center;">
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 160px; height: auto; object-fit: cover; display: block;">
+    <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 120px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 160px; height: auto; object-fit: cover; display: block;">
+    <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 120px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 160px; height: auto; object-fit: cover;display: block;">
+    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 120px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 160px; height: auto; object-fit: cover;display: block;">
+    <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 160px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor, Arizona State University, USA</p>
   </div>
   </div>
@@ -74,17 +74,17 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
    <div style="display: flex; justify-content: center; text-align: center;">
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 160px; height: auto; object-fit: cover;display: block;">
+    <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 120px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en">Fang You</a><br> Professor, University of Tongji, China</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang" style="width: 160px; height: auto; object-fit: cover;display: block;">
+    <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang" style="width: 120px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://am.tongji.edu.cn/info/1397/1842.htm">Jianmin Wang</a><br> Professor, University of Tongji, China</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 160px; height: auto; object-fit: cover;display: block;">
+    <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 120px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.utexas.edu/jwang/">Junmin Wang</a><br> Professor, University of Texas at Austin, USA</p>
   </div>
 
