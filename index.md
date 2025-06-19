@@ -48,46 +48,45 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 - The accepted workshop poster and its extended abstract will be published on the workshop website, but they will NOT be included in the IROS 2025 proceedings or published on IEEE Xplore. 
 
 ## Committee
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; margin: 10px;gap: 20px; flex-wrap: wrap;">
 <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px; height: auto; object-fit: cover; display: block;">
-    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan<br>
+    <p style="font-size: 16px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan<br>
     Machine Learning, Human-Machine Interaction, Trust Calibration, Motion Sickness, Modeling</p>
 </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 150px; height: auto; object-fit: cover; display: block;">
-    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands<br>
+    <p style="font-size: 16px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands<br>
     Deep Learning, Road User Behavior Prediction, Scene Understanding</p>
   </div>
 
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px; height: auto; object-fit: cover; display: block;">
-    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA<br>
+    <p style="font-size: 16px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA<br>
     Robotics, Machine Learning, Control Theory</p>
   </div>
 
-  <div style="margin: 10px;">
+  <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 150px; height: auto; object-fit: cover; display: block;">
-    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor, Arizona State University, USA<br>
+    <p style="font-size: 16px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor, Arizona State University, USA<br>
     Robotics, Cyber-Physical Systems, Control Theory</p>
   </div>
 
-  <div style="margin: 10px;">
+  <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 150px; height: auto; object-fit: cover;display: block;">
-    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en">Fang You</a><br> Professor, University of Tongji, China<br>
+    <p style="font-size: 16px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en">Fang You</a><br> Professor, University of Tongji, China<br>
     Intelligent Cognitive Interaction Automation, Intelligent Cockpit Design, Mixed Space Information Design and Embodied Design</p>
   </div>
 
-  <div style="margin: 10px;">
+  <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang" style="width: 150px; height: auto; object-fit: cover;display: block;">
-    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://am.tongji.edu.cn/info/1397/1842.htm">Jianmin Wang</a><br> Professor, University of Tongji, China<br>
+    <p style="font-size: 16px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://am.tongji.edu.cn/info/1397/1842.htm">Jianmin Wang</a><br> Professor, University of Tongji, China<br>
     Human-Computer Interaction</p>
   </div>
 
-  <div style="margin: 10px;">
+ <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 150px; height: auto; object-fit: cover;display: block;">
-    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.utexas.edu/jwang/">Junmin Wang</a><br> Professor, University of Texas at Austin, USA<br>
+    <p style="font-size: 16px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.utexas.edu/jwang/">Junmin Wang</a><br> Professor, University of Texas at Austin, USA<br>
     Human-centric Vehicle Automation, Human-Machine Collaboration</p>
   </div>
 
-</div>
