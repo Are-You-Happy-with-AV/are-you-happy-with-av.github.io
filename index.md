@@ -66,7 +66,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 160px; height: auto; object-fit: cover; display: block;">
+    <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 120px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor, Arizona State University, USA</p>
   </div>
   </div>
