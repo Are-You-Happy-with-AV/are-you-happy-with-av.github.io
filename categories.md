@@ -1,6 +1,5 @@
 ---
 title: Previous Workshops
-layout: categories
 ---
 
 [IEEE ITSC2023 WS Are You Happy with AV?](https://sites.google.com/view/are-you-happy-with-av-2023) <br>
