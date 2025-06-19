@@ -96,11 +96,11 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Are you Happy with AV" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/Weixin Image_20250618140719_194.png" # Site logo, also used in jekyll-seo-tag
-description: "xxx" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+# description: "xxx" # Site description and default description, also used in jekyll-seo-tag
+# url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+# baseurl: ""
+# repo: "https://github.com/daviddarnes/alembic"
+# email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
