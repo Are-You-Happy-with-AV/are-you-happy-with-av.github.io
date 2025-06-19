@@ -95,7 +95,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
   <div style="margin: 10px;">
     <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 150px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.utexas.edu/jwang/">Junmin Wang</a><br> Professor, University of Texas at Austin, USA<br>
-    Human-centric Vehicle Automation, Human-Machine Collaboration</div>p
+    Human-centric Vehicle Automation, Human-Machine Collaboration</p>
   </div>
 
 </div>
