@@ -48,21 +48,19 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 - The accepted workshop poster and its extended abstract will be published on the workshop website, but they will NOT be included in the IROS 2025 proceedings or published on IEEE Xplore. 
 
 ## Committee
- <div style="display: flex; justify-content: center; text-align: center;">
-
-  <div style="margin: 10px;">
-    <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px; height: auto; object-fit: cover; display: block;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+<img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan<br>
     Machine Learning, Human-Machine Interaction, Trust Calibration, Motion Sickness, Modeling</p>
-  </div>
+</div>
 
-  <div style="margin: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands<br>
     Deep Learning, Road User Behavior Prediction, Scene Understanding</p>
   </div>
 
-  <div style="margin: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA<br>
     Robotics, Machine Learning, Control Theory</p>
