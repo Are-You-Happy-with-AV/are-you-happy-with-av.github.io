@@ -71,17 +71,37 @@ Associate Professor <br> Arizona State University, USA | Professor, University o
 
   <div style="margin: 10px;">
     <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px;">
-    <p><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a>, Associate Professor, Nara Institute of Science and Technology, Japan</p>
+    <p><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan</p>
   </div>
 
   <div style="margin: 10px;">
     <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 150px;">
-    <p><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a>, Assistant Professor, University of Twente, The Netherlands</p>
+    <p><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands</p>
   </div>
 
   <div style="margin: 10px;">
     <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px;">
-    <p><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a>, Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
+    <p><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px;">
+    <p><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan</p>
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 150px;">
+    <p><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands</p>
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px;">
+    <p><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px;">
+    <p><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
   </div>
 
 </div>
