@@ -28,7 +28,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 - Interaction modeling
 
 
-## Call for Workshop Poster
+## <a href="/assets/files/Call_for_Poster_20250619.pdf" target="_blank"> Call for Workshop Poster</a>
 
 <p>We will use Email <a href="mailto:trust.calibration.ws@gmail.com">trust.calibration.ws@gmail.com</a> for the Extended Abstract of workshop poster submissions. </p>
 <p>Previously published work is allowed to be presented again as a poster at this workshop.</p> 
