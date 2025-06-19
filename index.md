@@ -93,6 +93,85 @@ To submit an extended abstract, you must have the following items readily availa
 </div>
 
 
+## Committee
+
+<style>
+  .image-row {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Allows wrapping on small screens */
+    text-align: center;
+  }
+
+  .image-block {
+    margin: 10px;
+    width: 160px;
+  }
+
+  .image-block img {
+    width: 160px;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .image-block p {
+    font-size: 12px;
+    line-height: 1.2;
+    margin: 4px 0;
+    word-wrap: break-word;
+  }
+
+  @media (max-width: 500px) {
+    .image-row {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+</style>
+
+
+
+ <div class="image-row">
+
+  <div class="image-block">
+    <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" >
+    <p><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan</p>
+  </div>
+
+  <div class="image-block">
+    <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" >
+    <p ><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands</p>
+  </div>
+
+  <div class="image-block">
+    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" >
+    <p><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
+  </div>
+
+  <div class="image-block">
+    <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang">
+    <p><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor, Arizona State University, USA</p>
+  </div>
+  
+ <div class="image-block">
+    <img src="/assets/committee/Fang You.jpg" alt="Fang You">
+    <p><a href="https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en">Fang You</a><br> Professor, University of Tongji, China</p>
+  </div>
+
+  <div class="image-block">
+    <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang">
+    <p><a href="https://am.tongji.edu.cn/info/1397/1842.htm">Jianmin Wang</a><br> Professor, University of Tongji, China</p>
+  </div>
+
+  <div class="image-block">
+    <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang">
+    <p><a href="https://sites.utexas.edu/jwang/">Junmin Wang</a><br> Professor, University of Texas at Austin, USA</p>
+  </div>
+
+</div>
+
+
 
 
 
