@@ -51,6 +51,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 <div style="display: flex; align-items: flex-start; margin: 10px;gap: 20px; flex-wrap: wrap;">
 <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 16px; text-align: left; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.researchgate.net/profile/Hailong_Liu9"><strong>Hailong Liu</strong></a><br> Associate Professor,<br> Nara Institute of Science and Technology, Japan<br>
+      <a href="mailto:liu.hailong@is.naist.jp">liu.hailong@is.naist.jp</a><br>
     <br>
      Machine Learning,<br> Human-Machine Interaction,<br> Trust Calibration, Motion Sickness,<br> Modeling</p>
 </div>
@@ -58,6 +59,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 16px; text-align: left; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.google.com/view/hao-cheng/home"><strong>Hao Cheng</strong></a><br> Assistant Professor,<br> University of Twente, The Netherlands<br>
+      <a href="mailto:h.cheng-2@utwente.nl">h.cheng-2@utwente.nl</a><br>
       <br>
      Deep Learning,<br> Road User Behavior Prediction,<br> Scene Understanding</p>
   </div>
@@ -65,6 +67,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 16px; text-align: left; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.cs.uic.edu/~wenhao/"><strong>Wenhao Luo</strong></a><br> Assistant Professor,<br> University of Illinois, Chicago (UIC), USA<br>
+      <a href="mailto:wenhao@uic.edu">wenhao@uic.edu</a><br>
       <br>
     Robotics,<br> Machine Learning,<br> Control Theory</p>
   </div>
@@ -72,6 +75,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
   <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 16px; text-align: left; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/"><strong>Wenlong Zhang</strong></a><br> Associate Professor,<br> Arizona State University, USA<br>
+      <a href="mailto:Wenlong.Zhang@asu.edu">Wenlong.Zhang@asu.edu</a><br>
       <br>
      Robotics,<br> Cyber-Physical Systems,<br> Control Theory</p>
   </div>
@@ -79,6 +83,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
   <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 150px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 16px; text-align: left; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en"><strong>Fang You</strong></a><br> Professor,<br> University of Tongji, China<br>
+      <a href="mailto:youfang@tongji.edu.cn">youfang@tongji.edu.cn</a><br>
       <br>
      Intelligent Cognitive Interaction Automation,<br> Intelligent Cockpit Design,<br> Mixed Space Information Design and Embodied Design</p>
   </div>
@@ -86,6 +91,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
   <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang" style="width: 150px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 16px; text-align: left; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://am.tongji.edu.cn/info/1397/1842.htm"><strong>Jianmin Wang</strong></a><br> Professor,<br> University of Tongji, China<br>
+      <a href="mailto:wangjianmin@tongji.edu.cn">wangjianmin@tongji.edu.cn</a><br>
       <br>
     Human-Computer Interaction</p>
   </div>
@@ -93,6 +99,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
  <div style="display: flex; align-items: flex-start; margin: 10px; gap: 20px; flex-wrap: wrap;">
     <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 150px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 16px; text-align: left; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.utexas.edu/jwang/"><strong>Junmin Wang</strong></a><br> Professor,<br> University of Texas at Austin, USA<br>
+      <a href="mailto:jwang@austin.utexas.edu">jwang@austin.utexas.edu</a><br>
       <br>
      Human-centric Vehicle Automation,<br> Human-Machine Collaboration</p>
   </div>
