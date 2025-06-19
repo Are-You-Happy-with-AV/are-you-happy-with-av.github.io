@@ -135,8 +135,8 @@ navigation_header:
 #   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-# - title: Created by H. Cheng
-#   url: https://sites.google.com/view/hao-cheng/home
+- title: by H. Cheng
+   url: https://sites.google.com/view/hao-cheng/home
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
