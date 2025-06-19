@@ -1,8 +1,6 @@
 ---
-title: Categories
+title: Previous Workshops
 layout: categories
-excerpt: "Category index"
-aside: true
 ---
 
 ![IEEE ITSC2023 WS Are You Happy with AV?](https://sites.google.com/view/are-you-happy-with-av-2023)
