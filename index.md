@@ -61,9 +61,6 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands<br>
     Deep Learning, Road User Behavior Prediction, Scene Understanding</p>
   </div>
-  </div>
-
-<div style="display: flex; justify-content: center; text-align: center;">
 
   <div style="margin: 10px;">
     <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px; height: auto; object-fit: cover; display: block;">
@@ -76,9 +73,6 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor, Arizona State University, USA<br>
     Robotics, Cyber-Physical Systems, Control Theory<\p>
   </div>
-  </div>
-
-<div style="display: flex; justify-content: center; text-align: center;">
 
   <div style="margin: 10px;">
     <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 150px; height: auto; object-fit: cover;display: block;">
