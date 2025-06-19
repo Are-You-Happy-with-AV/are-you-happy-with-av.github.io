@@ -30,11 +30,9 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 
 ## Call for Workshop Poster
 
-We will use Email ( trust.calibration.ws@gmail.com ) for the Extended Abstract of workshop poster submissions.
-
-Previously published work is allowed to be presented again as a poster at this workshop. 
-
-To submit an extended abstract, you must have the following items readily available:
+<p>We will use Email <a href="mailto:trust.calibration.ws@gmail.com">trust.calibration.ws@gmail.com</a> for the Extended Abstract of workshop poster submissions. </p>
+<p>Previously published work is allowed to be presented again as a poster at this workshop.</p> 
+<p>To submit an extended abstract, you must have the following items readily available:</p>
 
 - Title of the manuscript
 - Keywords: You will be prompted for 1-3 keywords
