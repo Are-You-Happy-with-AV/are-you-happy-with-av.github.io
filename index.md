@@ -71,7 +71,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
   <div style="margin: 10px;">
     <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor, Arizona State University, USA<br>
-    Robotics, Cyber-Physical Systems, Control Theory<\p>
+    Robotics, Cyber-Physical Systems, Control Theory</p>
   </div>
 
   <div style="margin: 10px;">
@@ -83,7 +83,7 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
   <div style="margin: 10px;">
     <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang" style="width: 150px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://am.tongji.edu.cn/info/1397/1842.htm">Jianmin Wang</a><br> Professor, University of Tongji, China<br>
-    Human-Computer Interaction<\p>
+    Human-Computer Interaction</p>
   </div>
 
   <div style="margin: 10px;">
