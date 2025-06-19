@@ -88,6 +88,9 @@ Associate Professor <br> Arizona State University, USA | Professor, University o
     <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 120px; height: 160px; object-fit: cover;">
     <p style="font-size: 12px; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor <br> Arizona State University, USA</p>
   </div>
+  </div>
+
+   <div style="display: flex; justify-content: center; text-align: center;">
 
   <div style="margin: 10px;">
     <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 120px; height: 160px; object-fit: cover;">
