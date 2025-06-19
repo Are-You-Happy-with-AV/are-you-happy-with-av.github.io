@@ -129,8 +129,8 @@ navigation_header:
   # url: /elements/
 # - title: Blog
 #   url: /blog/
-# - title: Categories
-#   url: /categories/
+- title: Previous Workshops
+  url: /categories/
 # - title: Search
 #   url: /search/
 # - title: Fork Alembic
