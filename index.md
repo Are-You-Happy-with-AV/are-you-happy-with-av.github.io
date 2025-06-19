@@ -51,41 +51,48 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
  <div style="display: flex; justify-content: center; text-align: center;">
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 120px; height: auto; object-fit: cover; display: block;">
+    <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan</p>
+    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;">Machine Learning, Human-Machine Interaction, Trust Calibration, Motion Sickness, Modeling</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 120px; height: auto; object-fit: cover; display: block;">
+    <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands</p>
+    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;">Deep Learning, Road User Behavior Prediction, Scene Understanding</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 120px; height: auto; object-fit: cover; display: block;">
+    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
+    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;">Robotics, Machine Learning, Control Theory</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 120px; height: auto; object-fit: cover; display: block;">
+    <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 150px; height: auto; object-fit: cover; display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor, Arizona State University, USA</p>
+    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;">Robotics, Cyber-Physical Systems, Control Theory</p>
   </div>
   </div>
 
    <div style="display: flex; justify-content: center; text-align: center;">
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 120px; height: auto; object-fit: cover;display: block;">
+    <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 150px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en">Fang You</a><br> Professor, University of Tongji, China</p>
+    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;">Intelligent Cognitive Interaction Automation, Intelligent Cockpit Design, Mixed Space Information Design and Embodied Design</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang" style="width: 120px; height: auto; object-fit: cover;display: block;">
+    <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang" style="width: 150px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://am.tongji.edu.cn/info/1397/1842.htm">Jianmin Wang</a><br> Professor, University of Tongji, China</p>
+    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;">Human-Computer Interaction</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 120px; height: auto; object-fit: cover;display: block;">
+    <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 150px; height: auto; object-fit: cover;display: block;">
     <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;"><a href="https://sites.utexas.edu/jwang/">Junmin Wang</a><br> Professor, University of Texas at Austin, USA</p>
+    <p style="font-size: 12px; text-align: center; line-height: 1.2; margin: 4px 0; word-wrap: break-word;">Human-centric Vehicle Automation, Human-Machine Collaboration</p>
   </div>
 
 </div>
