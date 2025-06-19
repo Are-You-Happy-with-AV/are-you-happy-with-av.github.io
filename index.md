@@ -85,23 +85,23 @@ Associate Professor <br> Arizona State University, USA | Professor, University o
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px;">
-    <p><a href="https://www.researchgate.net/profile/Hailong_Liu9">Hailong Liu</a><br> Associate Professor, Nara Institute of Science and Technology, Japan</p>
+    <img src="/assets/committee/Wenlong Zhang.png" alt="Wenlong Zhang" style="width: 150px;">
+    <p><a href="https://home.riselab.info/team/">Wenlong Zhang</a><br> Associate Professor <br> Arizona State University, USA</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Hao Cheng.jpg" alt="Hao Cheng" style="width: 150px;">
-    <p><a href="https://sites.google.com/view/hao-cheng/home">Hao Cheng</a><br> Assistant Professor, University of Twente, The Netherlands</p>
+    <img src="/assets/committee/Fang You.jpg" alt="Fang You" style="width: 150px;">
+    <p><a href="https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en">Fang You</a><br> Professor, University of Tongji, China</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px;">
-    <p><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
+    <img src="/assets/committee/Jianmin Wang.jpg" alt="Jianmin Wang" style="width: 150px;">
+    <p><a href="https://am.tongji.edu.cn/info/1397/1842.htm">Jianmin Wang</a><br> Professor, University of Tongji, China</p>
   </div>
 
   <div style="margin: 10px;">
-    <img src="/assets/committee/Wenhao Luo.png" alt="Wenhao Luo" style="width: 150px;">
-    <p><a href="https://www.cs.uic.edu/~wenhao/">Wenhao Luo</a><br> Assistant Professor, University of Illinois, Chicago (UIC), USA</p>
+    <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 150px;">
+    <p><a href="https://sites.utexas.edu/jwang/">Junmin Wang</a><br> Professor, University of Texas at Austin, USA</p>
   </div>
 
 </div>
