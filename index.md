@@ -50,23 +50,6 @@ To submit an extended abstract, you must have the following items readily availa
 - The accepted workshop poster and its extended abstract will be published on the workshop website, but they will NOT be included in the IROS 2025 proceedings or published on IEEE Xplore. 
 
 ## Committee
-
-<img src="/assets/committee/Hailong liu.jpg" style="padding: 10px;" width="200" height="250"> |  <img src="/assets/committee/Hao Cheng.jpg" style="padding: 10px;" width="200" height="250"> | <img src="/assets/committee/Wenhao Luo.png" style="padding: 10px;" width="200" height="250"> 
-:-------------------------:|:-------------------------:|:-------------------------:
-[Hailong Liu](https://www.researchgate.net/profile/Hailong_Liu9)  |  [Hao Cheng](https://sites.google.com/view/hao-cheng/home) |  [Wenhao Luo](https://www.cs.uic.edu/~wenhao/) 
-Associate Professor, Nara Institute of Science and Technology, Japan| Assistant Professor, University of Twente, The Netherlands | Assistant Professor, University of Illinois, Chicago (UIC), USA 
-
-<img src="/assets/committee/Wenlong Zhang.png" style="padding: 10px;" width="200" height="250">| <img src="/assets/committee/Fang You.jpg" style="padding: 10px;" width="200" height="250"> |  <img src="/assets/committee/Jianmin Wang.jpg" style="padding: 10px;" width="200" height="250"> 
-:-------------------------:|:-------------------------:|:-------------------------:
-[Wenlong Zhang](https://home.riselab.info/team/)| [Fang You](https://tjdi.tongji.edu.cn/TeacherDetail.do?id=4236&lang=en)  |  [Jianmin Wang](https://am.tongji.edu.cn/info/1397/1842.htm) 
-Associate Professor <br> Arizona State University, USA | Professor, University of Tongji, China | Professor, University of Tongji, China 
-
- <img src="/assets/committee/Junmin Wang.jpg" style="padding: 10px;" width="200" height="250"> |
-:-------------------------:|
-[Junmin Wang](https://sites.utexas.edu/jwang/) |
- Professor, University of Texas at Austin, USA |
-
-## Committee
  <div style="display: flex; justify-content: center; text-align: center;">
 
   <div style="margin: 10px;">
