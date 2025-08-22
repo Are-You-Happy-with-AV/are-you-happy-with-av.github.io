@@ -1,5 +1,5 @@
 Program is coming soon...
-<div style="font-size:8px;">
+<div style="font-size:5px;">
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align:center; width:100%;">
   <tr style="background-color:lightgrey;">
     <th>Session</th>
@@ -136,7 +136,7 @@ Program is coming soon...
 
   <div style="display:flex; align-items:center; gap:16px;">
     <!-- Profile Photo Placeholder -->
-    <div style="width:100px; height:100px; background:#e0e0e0; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:12px; color:#555;">
+    <div>
       <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 150px; height: auto; object-fit: cover; display: block;">
     </div>
     <!-- Name and Title -->
