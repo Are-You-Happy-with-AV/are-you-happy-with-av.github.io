@@ -12,7 +12,7 @@ Program is coming soon...
     <col style="width:5%;">
   </colgroup>
   
-  <tr style="background-color:lightgrey;">
+  <tr style="background-color:lightgrey;border:12px;">
     <th style="font-size:12px;">Session</th>
     <th style="font-size:12px;">Presentation</th>
     <th style="font-size:12px;">Presenter</th>
@@ -20,7 +20,7 @@ Program is coming soon...
     <th style="font-size:12px;">Title</th>
     <th style="font-size:12px;">Timeslot</th>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td rowspan="3" style="font-size:12px;"><b>Ses. 1</b></td>
     <td style="font-size:12px;">Opening</td>
     <td style="font-size:12px;">Prof. Hailong Liu</td>
