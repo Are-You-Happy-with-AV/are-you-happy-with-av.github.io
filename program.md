@@ -130,4 +130,44 @@ Program is coming soon...
 </table>
 
 
+<hr>
+<!-- Speaker 1 -->
+<div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
+
+  <div style="display:flex; align-items:center; gap:16px;">
+    <!-- Profile Photo Placeholder -->
+    <div style="width:100px; height:100px; background:#e0e0e0; border-radius:50%; display:flex; align-items:center; justify-content:center; font-size:12px; color:#555;">
+      Photo
+    </div>
+    <!-- Name and Title -->
+    <div>
+      <h2 style="margin:0;">Hailong Liu</h2>
+      <h4 style="margin:4px 0; color:#666;">Title: Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</h4>
+    </div>
+  </div>
+
+  <!-- Abstract -->
+  <div style="margin-top:16px;">
+    <h3>Abstract</h3>
+    <p>
+In recent years, autonomous driving systems have been applied not only to cars but also to smaller robotic mobility platforms, such as Autonomous Personal Mobility Vehicles (APMVs). These autonomous vehicles (AVs) frequently encounter pedestrians during automated driving, especially APMVs, which are typically used in sidewalks and other shared spaces. To enhance the interaction experience between pedestrians and autonomous vehicles (AVs) and to reduce potential risks, it is essential to investigate pedestrians’ walking behaviors in such encounters and to understand the underlying psychological processes. In this talk, I will first introduce a study that investigates the causal relationships between pedestrians’ subjective feelings and their walking behaviors during interactions with an APMV equipped with an external human–machine interface (eHMI). Based on the causal factors identified in this study, I will then present an approach for improving pedestrian–autonomous car interactions.
+    </p>
+  </div>
+
+  <!-- Bibliography -->
+  <div style="margin-top:16px;">
+    <h3>Biography</h3>
+    <p>
+      Hailong LIU (IEEE S'15--M'19--SM'25) received his M.Eng. and Ph.D. degrees in Engineering from Ritsumeikan University, Japan, in 2015 and 2018, respectively. From Apr. 2016 to Mar. 2018, he was a JSPS Research Fellow for
+Young Scientists (DC2). He worked as a researcher at Nagoya University from Apr. 2018 to Oct. 2021. In Nov. 2021, he joined Nara Institute of Science and Technology (NAIST), Japan, as an Assistant Professor and was promoted to
+Associate Professor in Feb. 2024. His research interests focus on human factors and machine learning in
+intelligent transportation systems. He is a Senior Member of IEEE and holds memberships in IEEE ITSS, IEEE RAS, and IEEE SMC. He also serves on the Human Factors in ITS Committee of IEEE ITSS. In addition, he is a member of JSAE, JSAI, and SICE.
+    </p>
+  </div>
+
+</div>
+
+<!-- Repeat this block for each speaker -->
+
+
 
