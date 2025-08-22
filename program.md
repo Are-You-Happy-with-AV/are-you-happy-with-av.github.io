@@ -1,6 +1,6 @@
 Program is coming soon...
 <div style="font-size:3px;">
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; text-align:center; width:100%;">
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.2">
   <tr style="background-color:lightgrey;">
     <th style="font-size:10px;">Session</th>
     <th style="font-size:10px;">Presentation</th>
