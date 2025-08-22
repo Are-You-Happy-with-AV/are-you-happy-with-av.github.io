@@ -23,3 +23,74 @@ Program is coming soon...
 |                | Opening | Asst. Prof. Hao Cheng | Uni. of Twente, Netherlands| Closing speaking | 17:35-17:50 |
 
 
+<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; text-align:center; width:100%;">
+  <tr>
+    <th>Session</th>
+    <th>Presentation</th>
+    <th>Presenter</th>
+    <th>Affiliation</th>
+    <th>Title</th>
+    <th>Timeslot</th>
+  </tr>
+  <tr>
+    <td rowspan="3"><b>Session 1</b></td>
+    <td>Row 1</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 2</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 3</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr style="background-color:lightgrey;">
+    <td colspan="5"><b>Coffee break</b><td></td></td>
+  </tr>
+  <tr>
+    <td rowspan="3"><b>Session 2</b></td>
+    <td>Row 1</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 2</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 3</td><td></td><td></td><td></td><td></td>
+  </tr>
+ <tr style="background-color:lightgrey;">
+    <td colspan="5"><b>Lunch break</b><td></td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><b>Session 3</b></td>
+    <td>Row 1</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 2</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 3</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 4</td><td></td><td></td><td></td><td></td>
+  </tr>
+ <tr style="background-color:lightgrey;">
+    <td colspan="5"><b>Coffee break</b><td></td></td>
+  </tr>
+  <tr>
+    <td rowspan="5"><b>Session 4</b></td>
+    <td>Row 1</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 2</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 3</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 4</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Row 5</td><td></td><td></td><td></td><td></td>
+  </tr>
+</table>
+
+
+
