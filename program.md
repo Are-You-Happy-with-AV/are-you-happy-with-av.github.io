@@ -1,21 +1,21 @@
 Program is coming soon...
 <div style="font-size:3px;">
-<table border="1" cellspacing="0" cellpadding="3" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.2">
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.3; font-size:12px">
   <tr style="background-color:lightgrey;">
-    <th style="font-size:10px;">Session</th>
-    <th style="font-size:10px;">Presentation</th>
-    <th style="font-size:10px;">Presenter</th>
-    <th style="font-size:10px;">Affiliation</th>
-    <th style="font-size:10px;">Title</th>
-    <th style="font-size:10px;">Timeslot</th>
+    <th style="font-size:12px;">Session</th>
+    <th style="font-size:12px;">Presentation</th>
+    <th style="font-size:12px;">Presenter</th>
+    <th style="font-size:12px;">Affiliation</th>
+    <th style="font-size:12px;">Title</th>
+    <th style="font-size:12px;">Timeslot</th>
   </tr>
   <tr>
-    <td rowspan="3" style="font-size:10px;"><b>Session 1</b></td>
-    <td style="font-size:10px;">Opening</td>
-    <td style="font-size:10px;">Prof. Hailong Liu</td>
-    <td style="font-size:10px;">NAIST, Japan</td>
-    <td style="font-size:10px;">Opening speaking</td>
-    <td style="font-size:10px;">09:00-09:10</td>
+    <td rowspan="3" style="font-size:12px;"><b>Session 1</b></td>
+    <td style="font-size:12px;">Opening</td>
+    <td style="font-size:12px;">Prof. Hailong Liu</td>
+    <td style="font-size:12px;">NAIST, Japan</td>
+    <td style="font-size:12px;">Opening speaking</td>
+    <td style="font-size:12px;">09:00-09:10</td>
   </tr>
   <tr>
     <td style="font-size:10px;">Invited speaker 1</td>
