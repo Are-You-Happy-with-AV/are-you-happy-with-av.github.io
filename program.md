@@ -5,7 +5,7 @@ Program is coming soon...
 | **Session 1**   | Opening | Prof. Hailong Liu | NAIST, Japan| Opening speaking | 09:00-09:10 |
 |                       | Invited speaker 1 | Prof. Junming Wang      | UT Austin, US      | TBD      | 09:10-09:40 |
 |                       | Invited speaker 2 | Prof. Jia Hu      | Tongji Uni., China      | Towards socially-aware autonomous driving: An interpretable data-driven perspective      | 09:40-10:10 |
-| <span style="background-color:lightgrey; font-weight:bold;">Coffee break</span>| | | | |10:10-10:30 |
+| Coffee break   | | | | |10:10-10:30 |
 | **Session 2**        | Invited speaker 3 | Prof. Takahiro Wada |NAIST, Japan | Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort |10:30-11:00|
 |                 | Invited speaker 4|Prof. Fang You|Tongji Uni., China| Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles | 11:00-11:30 |
 |                | invited speaker 5 | Prof. Daofei Li  | Zhejiang Uni., China      |  TBD     | 11:30-12:00  |
