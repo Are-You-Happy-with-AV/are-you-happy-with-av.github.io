@@ -32,7 +32,8 @@ Program is coming soon...
     <td style="font-size:10px;">10:10-10:40</td>
   </tr>
   <tr style="background-color:lightgrey;">
-    <td colspan="5" style="font-size:10px;"><b>Coffee break</b><td>10:10-10:30</td></td>
+    <td colspan="5" style="font-size:10px;"><b>Coffee break</b>
+    <td style="font-size:10px;">10:10-10:30</td></td>
   </tr>
   <tr>
     <td rowspan="3" style="font-size:10px;"><b>Session 2</b></td>
@@ -57,7 +58,8 @@ Program is coming soon...
     <td style="font-size:10px;">11:30-12:00</td>
   </tr>
  <tr style="background-color:lightgrey;">
-    <td colspan="5" style="font-size:10px;"><b>Lunch break</b><td>12:00-13:00</td></td>
+    <td colspan="5" style="font-size:10px;"><b>Lunch break</b>
+   <td style="font-size:10px;">12:00-13:00</td></td>
   </tr>
   <tr>
     <td rowspan="4" style="font-size:10px;"><b>Session 3</b></td>
@@ -89,7 +91,8 @@ Program is coming soon...
     <td style="font-size:10px;">14:30-15:00</td>
   </tr>
  <tr style="background-color:lightgrey;">
-    <td colspan="5" style="font-size:10px;"><b>Coffee break</b><td>15:00-15:20</td></td>
+    <td colspan="5" style="font-size:10px;"><b>Coffee break</b>
+   <td style="font-size:10px;">15:00-15:20</td></td>
   </tr>
   <tr>
     <td rowspan="5" style="font-size:10px;"><b>Session 4</b></td>
