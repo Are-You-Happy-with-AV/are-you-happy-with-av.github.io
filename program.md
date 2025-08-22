@@ -2,20 +2,20 @@ Program is coming soon...
 <div style="font-size:3px;">
 <table border="1" cellspacing="0" cellpadding="1" style="border-collapse: collapse; text-align:center; width:100%;">
   <tr style="background-color:lightgrey;">
-    <th style="font-size:16px;">Session</th>
-    <th style="font-size:16px;">Presentation</th>
-    <th style="font-size:16px;">Presenter</th>
-    <th style="font-size:16px;">Affiliation</th>
-    <th style="font-size:16px;">Title</th>
-    <th style="font-size:16px;">Timeslot</th>
+    <th style="font-size:12px;">Session</th>
+    <th style="font-size:12px;">Presentation</th>
+    <th style="font-size:12px;">Presenter</th>
+    <th style="font-size:12px;">Affiliation</th>
+    <th style="font-size:12px;">Title</th>
+    <th style="font-size:12px;">Timeslot</th>
   </tr>
   <tr>
-    <td rowspan="3" style="font-size:16px;"><b>Session 1</b></td>
-    <td style="font-size:16px;">Opening</td>
-    <td style="font-size:16px;">Prof. Hailong Liu</td>
-    <td style="font-size:16px;">NAIST, Japan</td>
-    <td style="font-size:16px;">Opening speaking</td>
-    <td style="font-size:16px;">09:00-09:10</td>
+    <td rowspan="3" style="font-size:12px;"><b>Session 1</b></td>
+    <td style="font-size:12px;">Opening</td>
+    <td style="font-size:12px;">Prof. Hailong Liu</td>
+    <td style="font-size:12px;">NAIST, Japan</td>
+    <td style="font-size:12px;">Opening speaking</td>
+    <td style="font-size:12px;">09:00-09:10</td>
   </tr>
   <tr>
     <td>Invited speaker 1</td>
@@ -147,7 +147,7 @@ Program is coming soon...
   </div>
 
   <!-- Abstract -->
-  <div style="margin-top:16px;font-size:20px;">
+  <div style="margin-top:16px;font-size:16px;">
     <h3>Abstract</h3>
     <p>
 In recent years, autonomous driving systems have been applied not only to cars but also to smaller robotic mobility platforms, such as Autonomous Personal Mobility Vehicles (APMVs). These autonomous vehicles (AVs) frequently encounter pedestrians during automated driving, especially APMVs, which are typically used in sidewalks and other shared spaces. To enhance the interaction experience between pedestrians and autonomous vehicles (AVs) and to reduce potential risks, it is essential to investigate pedestrians’ walking behaviors in such encounters and to understand the underlying psychological processes. In this talk, I will first introduce a study that investigates the causal relationships between pedestrians’ subjective feelings and their walking behaviors during interactions with an APMV equipped with an external human–machine interface (eHMI). Based on the causal factors identified in this study, I will then present an approach for improving pedestrian–autonomous car interactions.
@@ -155,7 +155,7 @@ In recent years, autonomous driving systems have been applied not only to cars b
   </div>
 
   <!-- Bibliography -->
-  <div style="margin-top:16px;font-size:20px;">
+  <div style="margin-top:16px;font-size:16px;">
     <h3>Biography</h3>
     <p>
       Hailong LIU (IEEE S'15--M'19--SM'25) received his M.Eng. and Ph.D. degrees in Engineering from Ritsumeikan University, Japan, in 2015 and 2018, respectively. From Apr. 2016 to Mar. 2018, he was a JSPS Research Fellow for
