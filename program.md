@@ -6,8 +6,8 @@ Program is coming soon...
   <colgroup>
     <col style="width:10%;">
     <col style="width:10%;">
-    <col style="width:25%;"> <!-- Fixed width for Column 3 -->
-    <col style="width:10%;">
+    <col style="width:22%;"> <!-- Fixed width for Column 3 -->
+    <col style="width:13%;">
     <col style="width:40%;">
     <col style="width:5%;">
   </colgroup>
@@ -15,32 +15,32 @@ Program is coming soon...
   <tr style="background-color:lightgrey;border:20px;">
     <th style="font-size:12px;">Session</th>
     <th style="font-size:12px;">Presentation</th>
-    <th style="font-size:12px;">Presenter</th>
-    <th style="font-size:12px;">Affiliation</th>
-    <th style="font-size:12px;">Title</th>
-    <th style="font-size:12px;">Timeslot</th>
+    <th style="font-size:12px;padding:8px">Presenter</th>
+    <th style="font-size:12px;padding:8px">Affiliation</th>
+    <th style="font-size:12px;padding:8px">Title</th>
+    <th style="font-size:12px;padding:8px">Timeslot</th>
   </tr>
   <tr style="border:20px;">
     <td rowspan="3" style="font-size:12px;"><b>Ses. 1</b></td>
     <td style="font-size:12px;">Opening</td>
-    <td style="font-size:12px;">Prof. Hailong Liu</td>
-    <td style="font-size:12px;">NAIST, Japan</td>
-    <td style="font-size:12px;">Opening speaking</td>
-    <td style="font-size:12px;">09:00-09:10</td>
+    <td style="font-size:12px;padding:8px">Prof. Hailong Liu</td>
+    <td style="font-size:12px;padding:8px">NAIST, Japan</td>
+    <td style="font-size:12px;padding:8px">Opening speaking</td>
+    <td style="font-size:12px;padding:8px">09:00-09:10</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;">Invited speaker 1</td>
-    <td style="font-size:12px;">Prof. Junming Wang</td>
-    <td style="font-size:12px;">UT Austin, US</td>
-    <td style="font-size:12px;">TBD</td>
-    <td style="font-size:12px;">09:40-10:10</td>
+    <td style="font-size:12px;padding:8px">Prof. Junming Wang</td>
+    <td style="font-size:12px;padding:8px">UT Austin, US</td>
+    <td style="font-size:12px;padding:8px">TBD</td>
+    <td style="font-size:12px;padding:8px">09:40-10:10</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;">Invited speaker 2</td>
-    <td style="font-size:12px;">Prof. Jia Hu</td>
-    <td style="font-size:12px;">Tongji Uni., China</td>
-    <td style="font-size:12px;">Towards socially-aware autonomous driving: An interpretable data-driven perspective</td>
-    <td style="font-size:12px;">10:10-10:40</td>
+    <td style="font-size:12px;padding:8px">Prof. Jia Hu</td>
+    <td style="font-size:12px;padding:8px">Tongji Uni., China</td>
+    <td style="font-size:12px;padding:8px">Towards socially-aware autonomous driving: An interpretable data-driven perspective</td>
+    <td style="font-size:12px;padding:8px">10:10-10:40</td>
   </tr>
   <tr style="background-color:lightgrey;border:20px;">
     <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
