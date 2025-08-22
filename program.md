@@ -48,24 +48,24 @@ Program is coming soon...
   </tr>
   <tr style="border:20px;">
     <td rowspan="3" style="font-size:12px;"><b>Ses. 2</b></td>
-    <td style="font-size:12px;">Invited speaker 3</td>
-    <td style="font-size:12px;">Prof. Takahiro Wada</td>
-    <td style="font-size:12px;">NAIST, Japan</td>
-    <td style="font-size:12px;">Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 3</td>
+    <td style="font-size:12px;padding:8px">Prof. Takahiro Wada</td>
+    <td style="font-size:12px;padding:8px">NAIST, Japan</td>
+    <td style="font-size:12px;padding:8px">Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</td>
     <td style="font-size:12px;">10:30-11:00</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Invited speaker 4</td>
-    <td style="font-size:12px;">Prof. Fang You</td>
-    <td style="font-size:12px;">Tongji Uni., China</td>
-    <td style="font-size:12px;">Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 4</td>
+    <td style="font-size:12px;padding:8px">Prof. Fang You</td>
+    <td style="font-size:12px;padding:8px">Tongji Uni., China</td>
+    <td style="font-size:12px;padding:8px">Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles</td>
     <td style="font-size:12px;">11:00-11:30</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Invited speaker 5</td>
-    <td style="font-size:12px;">Prof. Daofei Li</td>
-    <td style="font-size:12px;">Zhejiang Uni., China</td>
-    <td style="font-size:12px;">TBD</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 5</td>
+    <td style="font-size:12px;padding:8px">Prof. Daofei Li</td>
+    <td style="font-size:12px;padding:8px">Zhejiang Uni., China</td>
+    <td style="font-size:12px;padding:8px">TBD</td>
     <td style="font-size:12px;">11:30-12:00</td>
   </tr>
  <tr style="background-color:lightgrey;border:20px;">
@@ -74,31 +74,31 @@ Program is coming soon...
   </tr>
   <tr style="border:20px;">
     <td rowspan="4" style="font-size:12px;"><b>Ses. 3</b></td>
-    <td style="font-size:12px;">Invited speaker 6</td>
-    <td style="font-size:12px;">Prof. Hailong Liu</td>
-    <td style="font-size:12px;">NAIST, Japan</td>
-    <td style="font-size:12px;">Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 6</td>
+    <td style="font-size:12px;padding:8px">Prof. Hailong Liu</td>
+    <td style="font-size:12px;padding:8px">NAIST, Japan</td>
+    <td style="font-size:12px;padding:8px">Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</td>
     <td style="font-size:12px;">13:00-13:30</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Invited speaker 7</td>
-    <td style="font-size:12px;">Prof. Adriana Tapus</td>
-    <td style="font-size:12px;">Institut Polytechnique de Paris, France</td>
-    <td style="font-size:12px;">TBD</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 7</td>
+    <td style="font-size:12px;padding:8px">Prof. Adriana Tapus</td>
+    <td style="font-size:12px;padding:8px">Institut Polytechnique de Paris, France</td>
+    <td style="font-size:12px;padding:8px">TBD</td>
     <td style="font-size:12px;">13:30-14:00</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Invited speaker 8</td>
-    <td style="font-size:12px;">Prof. Jianmin Wang</td>
-    <td style="font-size:12px;">Tongji Uni., China</td>
-    <td style="font-size:12px;">IXAI: Generative Design of Automotive Styling Based on Inception Convolution with Explainable AI</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 8</td>
+    <td style="font-size:12px;padding:8px">Prof. Jianmin Wang</td>
+    <td style="font-size:12px;padding:8px">Tongji Uni., China</td>
+    <td style="font-size:12px;padding:8px">IXAI: Generative Design of Automotive Styling Based on Inception Convolution with Explainable AI</td>
     <td style="font-size:12px;">14:00-14:30</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Invited speaker 9</td>
-    <td style="font-size:12px;">Bo Jiang</td>
-    <td style="font-size:12px;">HUST, China</td>
-    <td style="font-size:12px;">Advancing E2E-AD via Multimodal Planning, Reinforced Fine-Tuning, and Language Modality Integration</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 9</td>
+    <td style="font-size:12px;padding:8px">Bo Jiang</td>
+    <td style="font-size:12px;padding:8px">HUST, China</td>
+    <td style="font-size:12px;padding:8px">Advancing E2E-AD via Multimodal Planning, Reinforced Fine-Tuning, and Language Modality Integration</td>
     <td style="font-size:12px;">14:30-15:00</td>
   </tr>
  <tr style="background-color:lightgrey;border:20px;">
@@ -107,38 +107,38 @@ Program is coming soon...
   </tr>
   <tr style="border:20px;">
     <td rowspan="5" style="font-size:12px;"><b>Ses. 4</b></td>
-    <td style="font-size:12px;">Poster 1</td>
-    <td style="font-size:12px;"></td>
-    <td style="font-size:12px;"></td>
-    <td style="font-size:12px;">coming soon...</td>
+    <td style="font-size:12px;padding:8px">Poster 1</td>
+    <td style="font-size:12px;padding:8px"></td>
+    <td style="font-size:12px;padding:8px"></td>
+    <td style="font-size:12px;padding:8px">coming soon...</td>
     <td style="font-size:12px;">15:20-15:50</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Poster 2</td>
-    <td style="font-size:12px;"></td>
-    <td style="font-size:12px;"></td>
-    <td style="font-size:12px;">coming soon...</td>
+    <td style="font-size:12px;padding:8px">Poster 2</td>
+    <td style="font-size:12px;padding:8px"></td>
+    <td style="font-size:12px;padding:8px"></td>
+    <td style="font-size:12px;padding:8px">coming soon...</td>
     <td style="font-size:12px;">15:50-16:20</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Poster 3</td>
-    <td style="font-size:12px;"></td>
-    <td style="font-size:12px;"></td>
-    <td style="font-size:12px;">coming soon...</td>
+    <td style="font-size:12px;padding:8px">Poster 3</td>
+    <td style="font-size:12px;padding:8px"></td>
+    <td style="font-size:12px;padding:8px"></td>
+    <td style="font-size:12px;padding:8px">coming soon...</td>
     <td style="font-size:12px;">16:20-16:50</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Roundtable discussion</td>
-    <td style="font-size:12px;"></td>
-    <td style="font-size:12px;"></td>
-    <td style="font-size:12px;">Interactive discussions for research and collaboration in HRI and HVI.</td>
+    <td style="font-size:12px;padding:8px">Roundtable discussion</td>
+    <td style="font-size:12px;padding:8px"></td>
+    <td style="font-size:12px;padding:8px"></td>
+    <td style="font-size:12px;padding:8px">Interactive discussions for research and collaboration in HRI and HVI.</td>
     <td style="font-size:12px;">16:50-17:35</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;">Closing</td>
-    <td style="font-size:12px;">Asst. Prof. Hao Cheng</td>
-    <td style="font-size:12px;">Uni. of Twente, Netherlands</td>
-    <td style="font-size:12px;">Closing speaking</td>
+    <td style="font-size:12px;padding:8px">Closing</td>
+    <td style="font-size:12px;padding:8px">Asst. Prof. Hao Cheng</td>
+    <td style="font-size:12px;padding:8px">Uni. of Twente, Netherlands</td>
+    <td style="font-size:12px;padding:8px">Closing speaking</td>
     <td style="font-size:12px;">17:35-17:50</td>
   </tr>
 </table>
