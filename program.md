@@ -28,14 +28,14 @@ Program is coming soon...
     <td style="font-size:12px;">Opening speaking</td>
     <td style="font-size:12px;">09:00-09:10</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Invited speaker 1</td>
     <td style="font-size:12px;">Prof. Junming Wang</td>
     <td style="font-size:12px;">UT Austin, US</td>
     <td style="font-size:12px;">TBD</td>
     <td style="font-size:12px;">09:40-10:10</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Invited speaker 2</td>
     <td style="font-size:12px;">Prof. Jia Hu</td>
     <td style="font-size:12px;">Tongji Uni., China</td>
@@ -46,7 +46,7 @@ Program is coming soon...
     <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
     <td style="font-size:12px;">10:10-10:30</td></td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td rowspan="3" style="font-size:12px;"><b>Ses. 2</b></td>
     <td style="font-size:12px;">Invited speaker 3</td>
     <td style="font-size:12px;">Prof. Takahiro Wada</td>
@@ -54,14 +54,14 @@ Program is coming soon...
     <td style="font-size:12px;">Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</td>
     <td style="font-size:12px;">10:30-11:00</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Invited speaker 4</td>
     <td style="font-size:12px;">Prof. Fang You</td>
     <td style="font-size:12px;">Tongji Uni., China</td>
     <td style="font-size:12px;">Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles</td>
     <td style="font-size:12px;">11:00-11:30</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Invited speaker 5</td>
     <td style="font-size:12px;">Prof. Daofei Li</td>
     <td style="font-size:12px;">Zhejiang Uni., China</td>
@@ -72,7 +72,7 @@ Program is coming soon...
     <td colspan="5" style="font-size:12px;"><b>Lunch break</b>
    <td style="font-size:12px;">12:00-13:00</td></td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td rowspan="4" style="font-size:12px;"><b>Ses. 3</b></td>
     <td style="font-size:12px;">Invited speaker 6</td>
     <td style="font-size:12px;">Prof. Hailong Liu</td>
@@ -80,21 +80,21 @@ Program is coming soon...
     <td style="font-size:12px;">Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</td>
     <td style="font-size:12px;">13:00-13:30</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Invited speaker 7</td>
     <td style="font-size:12px;">Prof. Adriana Tapus</td>
     <td style="font-size:12px;">Institut Polytechnique de Paris, France</td>
     <td style="font-size:12px;">TBD</td>
     <td style="font-size:12px;">13:30-14:00</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Invited speaker 8</td>
     <td style="font-size:12px;">Prof. Jianmin Wang</td>
     <td style="font-size:12px;">Tongji Uni., China</td>
     <td style="font-size:12px;">IXAI: Generative Design of Automotive Styling Based on Inception Convolution with Explainable AI</td>
     <td style="font-size:12px;">14:00-14:30</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Invited speaker 9</td>
     <td style="font-size:12px;">Bo Jiang</td>
     <td style="font-size:12px;">HUST, China</td>
@@ -105,7 +105,7 @@ Program is coming soon...
     <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
    <td style="font-size:12px;">15:00-15:20</td></td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td rowspan="5" style="font-size:12px;"><b>Ses. 4</b></td>
     <td style="font-size:12px;">Poster 1</td>
     <td style="font-size:12px;"></td>
@@ -113,28 +113,28 @@ Program is coming soon...
     <td style="font-size:12px;">coming soon...</td>
     <td style="font-size:12px;">15:20-15:50</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Poster 2</td>
     <td style="font-size:12px;"></td>
     <td style="font-size:12px;"></td>
     <td style="font-size:12px;">coming soon...</td>
     <td style="font-size:12px;">15:50-16:20</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Poster 3</td>
     <td style="font-size:12px;"></td>
     <td style="font-size:12px;"></td>
     <td style="font-size:12px;">coming soon...</td>
     <td style="font-size:12px;">16:20-16:50</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Roundtable discussion</td>
     <td style="font-size:12px;"></td>
     <td style="font-size:12px;"></td>
     <td style="font-size:12px;">Interactive discussions for research and collaboration in HRI and HVI.</td>
     <td style="font-size:12px;">16:50-17:35</td>
   </tr>
-  <tr>
+  <tr style="border:12px;">
     <td style="font-size:12px;">Closing</td>
     <td style="font-size:12px;">Asst. Prof. Hao Cheng</td>
     <td style="font-size:12px;">Uni. of Twente, Netherlands</td>
