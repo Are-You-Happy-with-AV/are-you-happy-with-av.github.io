@@ -125,6 +125,8 @@ navigation_header:
   url: /
 - title: Previous Workshops
   url: /categories/
+- title: Program
+  url: /program/
 # - title: Elements
 #   url: /elements/
 # - title: Blog
