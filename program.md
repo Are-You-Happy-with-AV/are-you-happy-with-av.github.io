@@ -42,7 +42,7 @@ Program is coming soon...
     <td style="font-size:12px;">Towards socially-aware autonomous driving: An interpretable data-driven perspective</td>
     <td style="font-size:12px;">10:10-10:40</td>
   </tr>
-  <tr style="background-color:lightgrey;">
+  <tr style="background-color:lightgrey;border:12px;">
     <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
     <td style="font-size:12px;">10:10-10:30</td></td>
   </tr>
@@ -68,7 +68,7 @@ Program is coming soon...
     <td style="font-size:12px;">TBD</td>
     <td style="font-size:12px;">11:30-12:00</td>
   </tr>
- <tr style="background-color:lightgrey;">
+ <tr style="background-color:lightgrey;border:12px;">
     <td colspan="5" style="font-size:12px;"><b>Lunch break</b>
    <td style="font-size:12px;">12:00-13:00</td></td>
   </tr>
@@ -101,7 +101,7 @@ Program is coming soon...
     <td style="font-size:12px;">Advancing E2E-AD via Multimodal Planning, Reinforced Fine-Tuning, and Language Modality Integration</td>
     <td style="font-size:12px;">14:30-15:00</td>
   </tr>
- <tr style="background-color:lightgrey;">
+ <tr style="background-color:lightgrey;border:12px;">
     <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
    <td style="font-size:12px;">15:00-15:20</td></td>
   </tr>
