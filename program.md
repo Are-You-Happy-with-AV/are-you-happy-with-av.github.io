@@ -1,6 +1,6 @@
 Program is coming soon...
 <div style="font-size:3px;">
-<table border="1" cellspacing="0" cellpadding="3" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.3; font-size:12px">
+<table border="4" cellspacing="0" cellpadding="3" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.3; font-size:12px; border:2px solid black;">
   <tr style="background-color:lightgrey;">
     <th style="font-size:12px;">Session</th>
     <th style="font-size:12px;">Presentation</th>
@@ -18,117 +18,117 @@ Program is coming soon...
     <td style="font-size:12px;">09:00-09:10</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Invited speaker 1</td>
-    <td style="font-size:10px;">Prof. Junming Wang</td>
-    <td style="font-size:10px;">UT Austin, US</td>
-    <td style="font-size:10px;">TBD</td>
-    <td style="font-size:10px;">09:40-10:10</td>
+    <td style="font-size:12px;">Invited speaker 1</td>
+    <td style="font-size:12px;">Prof. Junming Wang</td>
+    <td style="font-size:12px;">UT Austin, US</td>
+    <td style="font-size:12px;">TBD</td>
+    <td style="font-size:12px;">09:40-10:10</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Invited speaker 2</td>
-    <td style="font-size:10px;">Prof. Jia Hu</td>
-    <td style="font-size:10px;">Tongji Uni., China</td>
-    <td style="font-size:10px;">Towards socially-aware autonomous driving: An interpretable data-driven perspective</td>
-    <td style="font-size:10px;">10:10-10:40</td>
+    <td style="font-size:12px;">Invited speaker 2</td>
+    <td style="font-size:12px;">Prof. Jia Hu</td>
+    <td style="font-size:12px;">Tongji Uni., China</td>
+    <td style="font-size:12px;">Towards socially-aware autonomous driving: An interpretable data-driven perspective</td>
+    <td style="font-size:12px;">10:10-10:40</td>
   </tr>
   <tr style="background-color:lightgrey;">
-    <td colspan="5" style="font-size:10px;"><b>Coffee break</b>
-    <td style="font-size:10px;">10:10-10:30</td></td>
+    <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
+    <td style="font-size:12px;">10:10-10:30</td></td>
   </tr>
   <tr>
-    <td rowspan="3" style="font-size:10px;"><b>Session 2</b></td>
-    <td style="font-size:10px;">Invited speaker 3</td>
-    <td style="font-size:10px;">Prof. Takahiro Wada</td>
-    <td style="font-size:10px;">NAIST, Japan</td>
-    <td style="font-size:10px;">Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</td>
-    <td style="font-size:10px;">10:30-11:00</td>
+    <td rowspan="3" style="font-size:12px;"><b>Session 2</b></td>
+    <td style="font-size:12px;">Invited speaker 3</td>
+    <td style="font-size:12px;">Prof. Takahiro Wada</td>
+    <td style="font-size:12px;">NAIST, Japan</td>
+    <td style="font-size:12px;">Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</td>
+    <td style="font-size:12px;">10:30-11:00</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Invited speaker 4</td>
-    <td style="font-size:10px;">Prof. Fang You</td>
-    <td style="font-size:10px;">Tongji Uni., China</td>
-    <td style="font-size:10px;">Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles</td>
-    <td style="font-size:10px;">11:00-11:30</td>
+    <td style="font-size:12px;">Invited speaker 4</td>
+    <td style="font-size:12px;">Prof. Fang You</td>
+    <td style="font-size:12px;">Tongji Uni., China</td>
+    <td style="font-size:12px;">Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles</td>
+    <td style="font-size:12px;">11:00-11:30</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Invited speaker 5</td>
-    <td style="font-size:10px;">Prof. Daofei Li</td>
-    <td style="font-size:10px;">Zhejiang Uni., China</td>
-    <td style="font-size:10px;">TBD</td>
-    <td style="font-size:10px;">11:30-12:00</td>
+    <td style="font-size:12px;">Invited speaker 5</td>
+    <td style="font-size:12px;">Prof. Daofei Li</td>
+    <td style="font-size:12px;">Zhejiang Uni., China</td>
+    <td style="font-size:12px;">TBD</td>
+    <td style="font-size:12px;">11:30-12:00</td>
   </tr>
  <tr style="background-color:lightgrey;">
-    <td colspan="5" style="font-size:10px;"><b>Lunch break</b>
-   <td style="font-size:10px;">12:00-13:00</td></td>
+    <td colspan="5" style="font-size:12px;"><b>Lunch break</b>
+   <td style="font-size:12px;">12:00-13:00</td></td>
   </tr>
   <tr>
-    <td rowspan="4" style="font-size:10px;"><b>Session 3</b></td>
-    <td style="font-size:10px;">Invited speaker 6</td>
-    <td style="font-size:10px;">Prof. Hailong Liu</td>
-    <td style="font-size:10px;">NAIST, Japan</td>
-    <td style="font-size:10px;">Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</td>
-    <td style="font-size:10px;">13:00-13:30</td>
+    <td rowspan="4" style="font-size:12px;"><b>Session 3</b></td>
+    <td style="font-size:12px;">Invited speaker 6</td>
+    <td style="font-size:12px;">Prof. Hailong Liu</td>
+    <td style="font-size:12px;">NAIST, Japan</td>
+    <td style="font-size:12px;">Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</td>
+    <td style="font-size:12px;">13:00-13:30</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Invited speaker 7</td>
-    <td style="font-size:10px;">Prof. Adriana Tapus</td>
-    <td style="font-size:10px;">Institut Polytechnique de Paris, France</td>
-    <td style="font-size:10px;">TBD</td>
-    <td style="font-size:10px;">13:30-14:00</td>
+    <td style="font-size:12px;">Invited speaker 7</td>
+    <td style="font-size:12px;">Prof. Adriana Tapus</td>
+    <td style="font-size:12px;">Institut Polytechnique de Paris, France</td>
+    <td style="font-size:12px;">TBD</td>
+    <td style="font-size:12px;">13:30-14:00</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Invited speaker 8</td>
-    <td style="font-size:10px;">Prof. Jianmin Wang</td>
-    <td style="font-size:10px;">Tongji Uni., China</td>
-    <td style="font-size:10px;">IXAI: Generative Design of Automotive Styling Based on Inception Convolution with Explainable AI</td>
-    <td style="font-size:10px;">14:00-14:30</td>
+    <td style="font-size:12px;">Invited speaker 8</td>
+    <td style="font-size:12px;">Prof. Jianmin Wang</td>
+    <td style="font-size:12px;">Tongji Uni., China</td>
+    <td style="font-size:12px;">IXAI: Generative Design of Automotive Styling Based on Inception Convolution with Explainable AI</td>
+    <td style="font-size:12px;">14:00-14:30</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Invited speaker 9</td>
-    <td style="font-size:10px;">Bo Jiang</td>
-    <td style="font-size:10px;">HUST, China</td>
-    <td style="font-size:10px;">Advancing E2E-AD via Multimodal Planning, Reinforced Fine-Tuning, and Language Modality Integration</td>
-    <td style="font-size:10px;">14:30-15:00</td>
+    <td style="font-size:12px;">Invited speaker 9</td>
+    <td style="font-size:12px;">Bo Jiang</td>
+    <td style="font-size:12px;">HUST, China</td>
+    <td style="font-size:12px;">Advancing E2E-AD via Multimodal Planning, Reinforced Fine-Tuning, and Language Modality Integration</td>
+    <td style="font-size:12px;">14:30-15:00</td>
   </tr>
  <tr style="background-color:lightgrey;">
-    <td colspan="5" style="font-size:10px;"><b>Coffee break</b>
-   <td style="font-size:10px;">15:00-15:20</td></td>
+    <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
+   <td style="font-size:12px;">15:00-15:20</td></td>
   </tr>
   <tr>
-    <td rowspan="5" style="font-size:10px;"><b>Session 4</b></td>
-    <td style="font-size:10px;">Poster 1</td>
-    <td style="font-size:10px;"></td>
-    <td style="font-size:10px;"></td>
-    <td style="font-size:10px;">coming soon...</td>
-    <td style="font-size:10px;">15:20-15:50</td>
+    <td rowspan="5" style="font-size:12px;"><b>Session 4</b></td>
+    <td style="font-size:12px;">Poster 1</td>
+    <td style="font-size:12px;"></td>
+    <td style="font-size:12px;"></td>
+    <td style="font-size:12px;">coming soon...</td>
+    <td style="font-size:12px;">15:20-15:50</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Poster 2</td>
-    <td style="font-size:10px;"></td>
-    <td style="font-size:10px;"></td>
-    <td style="font-size:10px;">coming soon...</td>
-    <td style="font-size:10px;">15:50-16:20</td>
+    <td style="font-size:12px;">Poster 2</td>
+    <td style="font-size:12px;"></td>
+    <td style="font-size:12px;"></td>
+    <td style="font-size:12px;">coming soon...</td>
+    <td style="font-size:12px;">15:50-16:20</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Poster 3</td>
-    <td style="font-size:10px;"></td>
-    <td style="font-size:10px;"></td>
-    <td style="font-size:10px;">coming soon...</td>
-    <td style="font-size:10px;">16:20-16:50</td>
+    <td style="font-size:12px;">Poster 3</td>
+    <td style="font-size:12px;"></td>
+    <td style="font-size:12px;"></td>
+    <td style="font-size:12px;">coming soon...</td>
+    <td style="font-size:12px;">16:20-16:50</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Roundtable discussion</td>
-    <td style="font-size:10px;"></td>
-    <td style="font-size:10px;"></td>
-    <td style="font-size:10px;">Interactive discussions for research and collaboration in HRI and HVI.</td>
-    <td style="font-size:10px;">16:50-17:35</td>
+    <td style="font-size:12px;">Roundtable discussion</td>
+    <td style="font-size:12px;"></td>
+    <td style="font-size:12px;"></td>
+    <td style="font-size:12px;">Interactive discussions for research and collaboration in HRI and HVI.</td>
+    <td style="font-size:12px;">16:50-17:35</td>
   </tr>
   <tr>
-    <td style="font-size:10px;">Closing</td>
-    <td style="font-size:10px;">Asst. Prof. Hao Cheng</td>
-    <td style="font-size:10px;">Uni. of Twente, Netherlands</td>
-    <td style="font-size:10px;">Closing speaking</td>
-    <td style="font-size:10px;">17:35-17:50</td>
+    <td style="font-size:12px;">Closing</td>
+    <td style="font-size:12px;">Asst. Prof. Hao Cheng</td>
+    <td style="font-size:12px;">Uni. of Twente, Netherlands</td>
+    <td style="font-size:12px;">Closing speaking</td>
+    <td style="font-size:12px;">17:35-17:50</td>
   </tr>
 </table>
 </div>
