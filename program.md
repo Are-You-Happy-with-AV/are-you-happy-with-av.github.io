@@ -1,6 +1,17 @@
 Program is coming soon...
 <div style="font-size:3px;">
-<table border="6" cellspacing="6" cellpadding="3" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.3; font-size:12px; border:6px;">
+<table border="10" cellspacing="6" cellpadding="10" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.3; font-size:12px; border:6px;">
+   
+  <!-- Column width definitions -->
+  <colgroup>
+    <col style="width:10%;">
+    <col style="width:10%;">
+    <col style="width:25%;"> <!-- Fixed width for Column 3 -->
+    <col style="width:10%;">
+    <col style="width:40%;">
+    <col style="width:5%;">
+  </colgroup>
+  
   <tr style="background-color:lightgrey;">
     <th style="font-size:12px;">Session</th>
     <th style="font-size:12px;">Presentation</th>
@@ -10,7 +21,7 @@ Program is coming soon...
     <th style="font-size:12px;">Timeslot</th>
   </tr>
   <tr>
-    <td rowspan="3" style="font-size:12px;"><b>Session 1</b></td>
+    <td rowspan="3" style="font-size:12px;"><b>Ses. 1</b></td>
     <td style="font-size:12px;">Opening</td>
     <td style="font-size:12px;">Prof. Hailong Liu</td>
     <td style="font-size:12px;">NAIST, Japan</td>
@@ -36,7 +47,7 @@ Program is coming soon...
     <td style="font-size:12px;">10:10-10:30</td></td>
   </tr>
   <tr>
-    <td rowspan="3" style="font-size:12px;"><b>Session 2</b></td>
+    <td rowspan="3" style="font-size:12px;"><b>Ses. 2</b></td>
     <td style="font-size:12px;">Invited speaker 3</td>
     <td style="font-size:12px;">Prof. Takahiro Wada</td>
     <td style="font-size:12px;">NAIST, Japan</td>
@@ -62,7 +73,7 @@ Program is coming soon...
    <td style="font-size:12px;">12:00-13:00</td></td>
   </tr>
   <tr>
-    <td rowspan="4" style="font-size:12px;"><b>Session 3</b></td>
+    <td rowspan="4" style="font-size:12px;"><b>Ses. 3</b></td>
     <td style="font-size:12px;">Invited speaker 6</td>
     <td style="font-size:12px;">Prof. Hailong Liu</td>
     <td style="font-size:12px;">NAIST, Japan</td>
@@ -95,7 +106,7 @@ Program is coming soon...
    <td style="font-size:12px;">15:00-15:20</td></td>
   </tr>
   <tr>
-    <td rowspan="5" style="font-size:12px;"><b>Session 4</b></td>
+    <td rowspan="5" style="font-size:12px;"><b>Ses. 4</b></td>
     <td style="font-size:12px;">Poster 1</td>
     <td style="font-size:12px;"></td>
     <td style="font-size:12px;"></td>
