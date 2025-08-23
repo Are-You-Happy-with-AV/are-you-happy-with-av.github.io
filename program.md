@@ -220,7 +220,7 @@ TBD
   <div style="display:flex; align-items:center; gap:16px;">
     <!-- Profile Photo Placeholder -->
     <div>
-      <img src="/assets/committee/Jia_hu.jpg" alt="Jia Hu" style="width: 250px; height: auto; object-fit: cover; display: block;">
+      <img src="/assets/committee/jia_Hu.jpg" alt="Jia Hu" style="width: 250px; height: auto; object-fit: cover; display: block;">
     </div>
     <!-- Name and Title -->
     <div>
