@@ -258,7 +258,7 @@ Jia Hu works as a ZhongTe Distinguished Chair in Cooperative Automation in the C
     <!-- Name and Title -->
     <div>
       <h4 style="margin:0;">Takahiro Wada</h4>
-      <h5 style="margin:4px 0; color:#666;">Title: Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</h5>
+      <h6 style="margin:4px 0; color:#666;">Title: Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</h6>
     </div>
   </div>
 
