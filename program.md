@@ -83,7 +83,7 @@ Program is coming soon...
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Invited speaker 7</td>
     <td style="font-size:12px;padding:8px">Prof. Adriana Tapus</td>
-    <td style="font-size:12px;padding:8px">Institut Polytechnique de Paris, France</td>
+    <td style="font-size:12px;padding:8px">ENSTA Paris, France</td>
     <td style="font-size:12px;padding:8px">TBD</td>
     <td style="font-size:12px;padding:8px">13:30-14:00</td>
   </tr>
