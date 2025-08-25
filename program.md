@@ -103,7 +103,7 @@
     <td style="font-size:12px;padding:8px">14:30-15:00</td>
   </tr>
  <tr style="background-color:lightgrey;border:20px;">
-    <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
+    <td colspan="5" style="font-size:12px;padding:8px"><b>Coffee break</b>
    <td style="font-size:12px;padding:8px">15:00-15:20</td></td>
   </tr>
   <tr style="border:20px;">
