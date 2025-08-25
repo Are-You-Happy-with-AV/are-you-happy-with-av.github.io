@@ -163,6 +163,7 @@
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
 Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs
+      </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
       <img src="/assets/committee/Hailong liu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
@@ -172,7 +173,7 @@ Causal Discovery from Psychological States to Walking Behaviors for Pedestrians 
     Asso. Prof. Dr. Hailong Liu
   </a>
 </h3>
-        <p style="margin-top:8px; font-style:italic;">Tthe School of Arts and Media, Tongji University, China</p>
+    <p style="margin-top:8px; font-style:italic;">Graduate School of Science and Technology, NAIST, Japan</p>
       </div>
     </div>
     <!-- Abstract -->
