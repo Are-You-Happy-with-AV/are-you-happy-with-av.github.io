@@ -311,9 +311,6 @@ Fang You is a Professor and Ph.D. supervisor at the School of Arts and Media, To
 
 </div>
 
-
-
-</div>
 <!-- Speaker 6 -->
 <div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
 
@@ -450,6 +447,7 @@ Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, 
 </div>
 
 <!-- Repeat this block for each speaker -->
+
 
 
 
