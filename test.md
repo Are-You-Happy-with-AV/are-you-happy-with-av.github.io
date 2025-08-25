@@ -29,7 +29,7 @@
      Junmin Wang is the Fletcher Stuckey Pratt Chair in Engineering and a Professor in Mechanical Engineering at University of Texas at Austin. In 2008, he started his academic career at Ohio State University, where he founded the Vehicle Systems and Control Laboratory, was early promoted to Associate Professor in September 2013 and then very early promoted to Full Professor in June 2016. In 2018, he left Ohio State University and joined University of Texas at Austin as the Accenture Endowed Professor in Mechanical Engineering. Professor Wang has a wide range of research interests covering control, modeling, estimation, optimization, diagnosis, and AI for dynamical systems, especially for automotive, vehicle, transportation, mobility, human-automation, robotic, energy storage, and manufacturing applications. Prof. Wang’s research contributions include the development of control and estimation methods that advance efficiency, driving safety, and emission performance of conventional, electrified, connected and autonomous/automated vehicles. He has five years of full-time industrial research experience (2003-2008) at Southwest Research Institute (San Antonio, Texas) where he was a Senior Research Engineer and led research projects sponsored by more than 50 industrial companies and governmental agencies worldwide. Prof. Wang’s research programs at UT Austin and Ohio State University have been funded by federal agencies and industrial companies such as National Science Foundation (NSF), Office of Naval Research (ONR), Department of Energy (DOE), U.S. Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), Army Research Lab (ARL), Texas Department of Transportation, GM, Ford, Honda, Tenneco, Eaton, Ftech, Denso, and others..
 </div>
  </div>
- <div style="height:30px;"></div>
+ <div style="height:15px;"></div>
 
   <!-- Speaker 2 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
@@ -60,7 +60,7 @@
      Jia Hu works as a ZhongTe Distinguished Chair in Cooperative Automation in the College of Transportation Engineering at Tongji University. Before joining Tongji, he was a research associate at the Federal Highway Administration, USA (FHWA). He is an Associate Editor of the IEEE Transaction on Intelligent Transportation Systems, IEEE Transaction on Intelligent Vehicle, American Society of Civil Engineers Journal of Transportation Engineering, IEEE Open Journal in Intelligent Transportation Systems, an assistant editor of the Journal of Intelligent Transportation Systems, an advisory editorial board member for the Transportation Research Part C, an associate editor for IEEE Intelligent Vehicles Symposium since 2018, and an associate editor for IEEE Intelligent Transportation Systems Conference since 2019. Furthermore, he is a vice chair of the SAE-China Intelligent Transportation Committee.
 </div>
 </div>
- <div style="height:30px;"></div>
+ <div style="height:15px;"></div>
       <!-- Speaker 3 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
@@ -90,7 +90,7 @@
      Prof. Takahiro Wada received his Ph.D. degree in Robotics from Ritsumeikan University in 1999. He then joined the Department of Robotics at the same university as a Research Associate. In 2000, he moved to Kagawa University as an Assistant Professor and was promoted to Associate Professor in 2007. In 2012, he became a Full Professor at the College of Information Science and Engineering, Ritsumeikan University. Since 2021, he has been a Full Professor at the Nara Institute of Science and Technology. His research interests include human–machine systems, human modeling, and human–robot interaction. He has served as Chair of the IEEE SMC Society Technical Committee on Haptic Shared Control and as Co-Chair of the IFAC Technical Committee on Human-Machine Systems.
 </div>
 </div>
- <div style="height:30px;"></div>
+ <div style="height:15px;"></div>
  
    <!-- Speaker 4 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
@@ -121,7 +121,7 @@
     Daofei Li received the B.S. degree in Vehicle Engineering from the Jilin University, Changchun, China, in 2003, and the Ph.D. degree in Vehicle Engineering from the Shanghai Jiao Tong University, Shanghai, China, in 2008. Since June 2008, he joined the Institute for Power Machinery and Vehicular Engineering, Faculty of Engineering, Zhejiang University (ZJU), Hangzhou, China. He was a Visiting Scholar with the University of Missouri-Columbia in 2011, and later with the University of Michigan, Ann Arbor, Michigan from 2014 to 2016. He is currently Associate Professor with ZJU and directs the Research Group of Human-Mobility-Automation. His research interests include vehicle dynamics and control, driver model and autonomous driving. 
 </div>  
 </div>
- <div style="height:30px;"></div>
+ <div style="height:15px;"></div>
  
        <!-- Speaker 5 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
@@ -138,7 +138,7 @@
       <img src="/assets/committee/Fang You.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Fang You</h3>
-        <p style="margin-top:8px; font-style:italic;">Tthe School of Arts and Media, Tongji University, China</p>
+        <p style="margin-top:8px; font-style:italic;">The School of Arts and Media, Tongji University, China</p>
       </div>
     </div>
     <!-- Abstract -->
@@ -152,6 +152,132 @@
     Fang You is a Professor and Ph.D. supervisor at the School of Arts and Media, Tongji University, where she leads the User Experience Laboratory and the Automotive Interaction Design Laboratory. She is also a Fellow of the Royal Society of Arts (FRSA). Her main research interests include cognitive interaction design, intelligent cockpit design and evaluation, hybrid space information, and embodied design. In recent years, she has led more than ten major projects, including the National Natural Science Foundation of China, the National Social Science Fund, projects funded by the Ministry of Science and Technology, and several provincial-level grants. She has published over 80 papers, authored five books and two textbooks, and holds 17 invention patents along with numerous utility and design patents. She has established long-term collaborations with companies such as Huawei, Baidu, and SAIC, as well as universities and research institutes in Germany and Australia. Her research outcomes have been widely applied in intelligent cockpits and human–computer interaction.
 </div> 
 </div>
- <div style="height:30px;"></div>
+ <div style="height:15px;"></div>
 
+       <!-- Speaker 6 -->
+  <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
+    <!-- Title -->
+    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
+      INVITED PRESENTATION 6 (20MIN + 10MIN)
+    </div>
+    <!-- Subtitle -->
+    <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
+Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs
+    <!-- Profile -->
+    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+      <img src="/assets/committee/Hailong liu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <div style="flex:1; min-width:200px;">
+        <h3 style="margin:0; font-size:24px;">
+  <a href="https://www.researchgate.net/profile/Hailong-Liu-2" target="_blank" style="text-decoration:none; color:inherit;">
+    Asso. Prof. Dr. Hailong Liu
+  </a>
+</h3>
+        <p style="margin-top:8px; font-style:italic;">Tthe School of Arts and Media, Tongji University, China</p>
+      </div>
+    </div>
+    <!-- Abstract -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+   In recent years, autonomous driving systems have been applied not only to cars but also to smaller robotic mobility platforms, such as Autonomous Personal Mobility Vehicles (APMVs). These autonomous vehicles (AVs) frequently encounter pedestrians during automated driving, especially APMVs, which are typically used in sidewalks and other shared spaces. To enhance the interaction experience between pedestrians and autonomous vehicles (AVs) and to reduce potential risks, it is essential to investigate pedestrians’ walking behaviors in such encounters and to understand the underlying psychological processes. In this talk, I will first introduce a study that investigates the causal relationships between pedestrians’ subjective feelings and their walking behaviors during interactions with an APMV equipped with an external human–machine interface (eHMI). Based on the causal factors identified in this study, I will then present an approach for improving pedestrian–autonomous car interactions.
+    </div>
+    <!-- Biography -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+    Hailong Liu (IEEE S'15 - M'19 - SM'25) received his M.Eng. and Ph.D. degrees in Engineering from Ritsumeikan University, Japan, in 2015 and 2018, respectively. From Apr. 2016 to Mar. 2018, he was a JSPS Research Fellow for Young Scientists (DC2). He worked as a researcher at Nagoya University from Apr. 2018 to Oct. 2021. In Nov. 2021, he joined Nara Institute of Science and Technology (NAIST), Japan, as an Assistant Professor and was promoted to Associate Professor in Feb. 2024. His research interests focus on human factors and machine learning in intelligent transportation systems. He is a Senior Member of IEEE and holds memberships in IEEE ITSS, IEEE RAS, and IEEE SMC. He also serves on the Human Factors in ITS Committee of IEEE ITSS. In addition, he is a member of JSAE, JSAI, and SICE.
+</div> 
+</div>
+ <div style="height:15px;"></div>
+
+       <!-- Speaker 7 -->
+  <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
+    <!-- Title -->
+    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
+      INVITED PRESENTATION 7 (20MIN + 10MIN)
+    </div>
+    <!-- Subtitle -->
+    <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
+    Title：TBD
+    </div>
+    <!-- Profile -->
+    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+      <img src="/assets/committee/Adriana Tapus.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <div style="flex:1; min-width:200px;">
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Adriana Tapus</h3>
+        <p style="margin-top:8px; font-style:italic;">ENSTA Paris, France</p>
+      </div>
+    </div>
+    <!-- Abstract -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+   TBD
+    </div>
+    <!-- Biography -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+    Adriana Tapus is a Professor at ENSTA Paris, member of the Institut Polytechnique de Paris, in the Autonomous Systems and Robotics Laboratory of the Computer Science and Systems Engineering Unit (U2IS). In 2011, she obtained Habilitation (HDR) for her thesis titled "Towards a personalized Human-Robot Interaction". She obtained her PhD in Computer Science from the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland in 2005 and her degree in Computer Engineering from Polytechnic University of Bucharest, Romania in 2001. She has worked as a Research Associate at the University of Southern California (USC), where she was among the pioneers in the development of socially assistive robotics, contributing mainly in machine learning, human modeling, and human-robot interaction. Prof. Tapus is Associate Editor of the International Journal on Social Robotics (IJSR), ACM Transactions on Human-Robot Interaction (THRI), and IEEE Transactions on Cognitive and Developmental Systems (TCDS) and is on the steering committee of several major robotics conferences (IROS, ICRA, HRI, RO-MAN, etc.). She has more than 150 research publications and received the Romanian Academy Award for her contribution in assistive robotics in 2010. In 2016 she was nominated as one of the “25 women in robotics you need to know about”. She has been the main coordinator of several national and international projects. Since 2019, she is also a founder member of the RoboticsByDesign lab. Since 2019, she is also the DIrector of the DOctoral School of IP Paris.
+</div> 
+</div>
+ <div style="height:15px;"></div>
+
+     <!-- Speaker 8 -->
+  <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
+    <!-- Title -->
+    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
+      INVITED PRESENTATION 8 (20MIN + 10MIN)
+    </div>
+    <!-- Subtitle -->
+    <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
+     IXAI: Generative Design of Automotive Styling Based on Inception Convolution with Explainable AI
+    </div>
+    <!-- Profile -->
+    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+      <img src="/assets/committee/Jianmin Wang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <div style="flex:1; min-width:200px;">
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Jianmin Wang</h3>
+        <p style="margin-top:8px; font-style:italic;">The School of Arts and Media, Tongji University, China</p>
+      </div>
+    </div>
+    <!-- Abstract -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+   This presentation will introduce IXAI — a generative automotive styling design framework based on Inception Convolution and Explainable Artificial Intelligence (XAI). The method integrates multimodal data processing, Inception Convolution-based target detection, and Grad-CAM visualization to achieve efficient, transparent, and highly accurate styling generation. Based on this framework, we have developed a creative tool, IXAI-CAR, capable of rapidly generating high-quality automotive styling design images. Experimental results show that the method achieves an accuracy of 98.3% and improves the SSIM image quality metric by 8.24%, significantly outperforming traditional approaches. The study demonstrates that IXAI not only optimizes the design process and output quality but also provides an efficient and transparent solution for human-computer collaboration in complex design tasks, advancing the application and development of intelligent design tools in the automotive styling domain.
+    </div>
+    <!-- Biography -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+    Jianmin Wang, Ph.D., is a Professor and Vice Dean at the School of Arts and Media, Tongji Universityand a Fellow of the Royal Society of Arts (FRSA). He currently serves as Director of the Artificial Intelligence Media Research Center and Head of the User Experience Laboratory and Automotive Interaction Design Laboratory at Tongji University. His research interests focus on human–computer interaction, automotive virtual simulation, and big data visualization. He has led more than twenty national and provincial research projects, including the National 863 Program, the National Natural Science Foundation of China, and the National Science and Technology Support Program, as well as collaborative projects with leading enterprises such as Huawei, Mitsubishi Electric, and China Telecom. He holds 44 authorized invention patents, has published over 80 papers, and authored several monographs. His achievements have been recognized with the National Science and Technology Progress Award (Second Prize), the Ministry of Education Science and Technology Progress Award (First Prize), the Guangdong Science and Technology Progress Award, and the Guangdong Dingying Science and Technology Award. He has also served as a member of the Ministry of Education’s Teaching Steering Committee for Animation and Digital Media, and as a standing member of the Human–Computer Interaction Committee of the China Computer Federation (CCF).
+</div> 
+</div>
+ <div style="height:15px;"></div>
+
+      <!-- Speaker 9 -->
+  <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
+    <!-- Title -->
+    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
+      INVITED PRESENTATION 9 (20MIN + 10MIN)
+    </div>
+    <!-- Subtitle -->
+    <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
+     Multimodal Understanding for Autonomous Driving
+    </div>
+    <!-- Profile -->
+    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+      <img src="/assets/committee/bo_jiang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <div style="flex:1; min-width:200px;">
+        <h3 style="margin:0; font-size:24px;">Bo Jiang</h3>
+        <p style="margin-top:8px; font-style:italic;">HUST Vision Lab, China</p>
+      </div>
+    </div>
+    <!-- Abstract -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+   In this talk, I will present our recent research in several areas of autonomous driving (AD). I will begin with our latest multimodal end-to-end models, VADv2 and DiffusionDrive. Next, I will introduce RAD, a closed-loop, interactive reinforcement fine-tuning framework based on 3D Gaussian Splatting. Then, I will share our work on incorporating language modalities into AD. This includes Senna, a dual-system vision-language-action model, and AlphaDrive, a planning-oriented VLM based on RL and reasoning. Finally, I will outline our vision for future directions in driving-oriented VLAs and interactive driving enabled by language-based instructions.
+    </div>
+    <!-- Biography -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+    Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, advised by Prof. Xinggang Wang and Prof. Wenyu Liu. His research focuses on autonomous driving and multimodal understanding. He has published 4 papers in top-tier conferences and journals, with over 840 citations on Google Scholar. His representative works include the VAD series and the MapTR series, which have garnered over 3k stars on GitHub and are widely used in both academia and industry.
+</div> 
+</div>
+ <div style="height:15px;"></div>
 </div>
