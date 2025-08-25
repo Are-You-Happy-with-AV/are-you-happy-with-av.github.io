@@ -14,7 +14,6 @@ Program is coming soon...
   <style>
 img {
   width: width:15% !important;
-  height: width:15% !important;
   object-fit: cover !important; /* 保持比例裁剪，不会变形 */
   border-radius: 8px; /* 可选，圆角更好看 */
 }
