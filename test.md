@@ -12,7 +12,7 @@
     </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
-      <img src="/assets/committee/junmin wang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <img src="Junmin Wang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Junmin Wang</h3>
         <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA
@@ -57,4 +57,35 @@
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
      Jia Hu works as a ZhongTe Distinguished Chair in Cooperative Automation in the College of Transportation Engineering at Tongji University. Before joining Tongji, he was a research associate at the Federal Highway Administration, USA (FHWA). He is an Associate Editor of the IEEE Transaction on Intelligent Transportation Systems, IEEE Transaction on Intelligent Vehicle, American Society of Civil Engineers Journal of Transportation Engineering, IEEE Open Journal in Intelligent Transportation Systems, an assistant editor of the Journal of Intelligent Transportation Systems, an advisory editorial board member for the Transportation Research Part C, an associate editor for IEEE Intelligent Vehicles Symposium since 2018, and an associate editor for IEEE Intelligent Transportation Systems Conference since 2019. Furthermore, he is a vice chair of the SAE-China Intelligent Transportation Committee.
 </div>
+
+      <!-- Speaker 3 -->
+  <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
+    <!-- Title -->
+    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
+      INVITED PRESENTATION 3 (20MIN + 10MIN)
+    </div>
+    <!-- Subtitle -->
+    <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
+      Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort
+    </div>
+    <!-- Profile -->
+    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+      <img src="/assets/committee/TakahiroWADA.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <div style="flex:1; min-width:200px;">
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Takahiro Wada</h3>
+        <p style="margin-top:8px; font-style:italic;">Graduate School of Science and Technology, NAIST, Japan
+      </div>
+    </div>
+    <!-- Abstract -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+     The importance of enhancing motion comfort in vehicles has been growing with the rapid development of automated vehicles and the increasing use of in-vehicle digital devices. Understanding human motion comfort requires a quantitative framework of self-motion perception, including motion sickness under various motion exposures such as vehicle dynamics. In this talk, I will provide an overview of recent research on modeling motion sickness and self-motion perception based on the Subjective Vertical Mismatch Theory, which has attracted increasing attention in recent years. Furthermore, I will present applications of these computational models to the study of motion perception and comfort in vehicles, including automated vehicles.
+    </div>
+    <!-- Biography -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+     Prof. Takahiro Wada received his Ph.D. degree in Robotics from Ritsumeikan University in 1999. He then joined the Department of Robotics at the same university as a Research Associate. In 2000, he moved to Kagawa University as an Assistant Professor and was promoted to Associate Professor in 2007. In 2012, he became a Full Professor at the College of Information Science and Engineering, Ritsumeikan University. Since 2021, he has been a Full Professor at the Nara Institute of Science and Technology. His research interests include human–machine systems, human modeling, and human–robot interaction. He has served as Chair of the IEEE SMC Society Technical Committee on Haptic Shared Control and as Co-Chair of the IFAC Technical Committee on Human-Machine Systems.
+</div>
+
+    
 </div>
