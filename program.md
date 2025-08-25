@@ -56,16 +56,16 @@ Program is coming soon...
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Invited speaker 4</td>
-    <td style="font-size:12px;padding:8px">Prof. Fang You</td>
-    <td style="font-size:12px;padding:8px">Tongji Uni., China</td>
-    <td style="font-size:12px;padding:8px">Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles</td>
+ <td style="font-size:12px;padding:8px">Prof. Daofei Li</td>
+    <td style="font-size:12px;padding:8px">Zhejiang Uni., China</td>
+    <td style="font-size:12px;padding:8px">TBD</td>
     <td style="font-size:12px;padding:8px">11:00-11:30</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Invited speaker 5</td>
-    <td style="font-size:12px;padding:8px">Prof. Daofei Li</td>
-    <td style="font-size:12px;padding:8px">Zhejiang Uni., China</td>
-    <td style="font-size:12px;padding:8px">TBD</td>
+   <td style="font-size:12px;padding:8px">Prof. Fang You</td>
+    <td style="font-size:12px;padding:8px">Tongji Uni., China</td>
+    <td style="font-size:12px;padding:8px">Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles</td>
     <td style="font-size:12px;padding:8px">11:30-12:00</td>
   </tr>
  <tr style="background-color:lightgrey;border:20px;">
@@ -145,43 +145,8 @@ Program is coming soon...
 </div>
 
 <hr>
+
 <!-- Speaker 1 -->
-<div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
-
-  <div style="display:flex; align-items:center; gap:16px;">
-    <!-- Profile Photo Placeholder -->
-    <div>
-      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu"  style="width:auto; height:auto; object-fit:cover; border-radius:8px;">
-    </div>
-    <!-- Name and Title -->
-    <div>
-      <h4 style="margin:0;width:80%;">Hailong Liu</h4>
-      <h5 style="margin:4px 0; color:#666; width:80%;">Title: Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</h5>
-    </div>
-  </div>
-
-  <!-- Abstract -->
-  <div style="margin-top:16px;font-size:16px;line-height:1.2">
-    <h6>Abstract</h6>
-    <p>
-In recent years, autonomous driving systems have been applied not only to cars but also to smaller robotic mobility platforms, such as Autonomous Personal Mobility Vehicles (APMVs). These autonomous vehicles (AVs) frequently encounter pedestrians during automated driving, especially APMVs, which are typically used in sidewalks and other shared spaces. To enhance the interaction experience between pedestrians and autonomous vehicles (AVs) and to reduce potential risks, it is essential to investigate pedestrians’ walking behaviors in such encounters and to understand the underlying psychological processes. In this talk, I will first introduce a study that investigates the causal relationships between pedestrians’ subjective feelings and their walking behaviors during interactions with an APMV equipped with an external human–machine interface (eHMI). Based on the causal factors identified in this study, I will then present an approach for improving pedestrian–autonomous car interactions.
-    </p>
-  </div>
-
-  <!-- Bibliography -->
-  <div style="margin-top:16px;font-size:16px;line-height:1.2">
-    <h6>Biography</h6>
-    <p>
-      Hailong LIU (IEEE S'15--M'19--SM'25) received his M.Eng. and Ph.D. degrees in Engineering from Ritsumeikan University, Japan, in 2015 and 2018, respectively. From Apr. 2016 to Mar. 2018, he was a JSPS Research Fellow for
-Young Scientists (DC2). He worked as a researcher at Nagoya University from Apr. 2018 to Oct. 2021. In Nov. 2021, he joined Nara Institute of Science and Technology (NAIST), Japan, as an Assistant Professor and was promoted to
-Associate Professor in Feb. 2024. His research interests focus on human factors and machine learning in
-intelligent transportation systems. He is a Senior Member of IEEE and holds memberships in IEEE ITSS, IEEE RAS, and IEEE SMC. He also serves on the Human Factors in ITS Committee of IEEE ITSS. In addition, he is a member of JSAE, JSAI, and SICE.
-    </p>
-  </div>
-
-</div>
-
-<!-- Speaker 2 -->
 <div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
 
   <div style="display:flex; align-items:center; gap:16px;">
@@ -214,7 +179,7 @@ TBD
 
 </div>
 
-<!-- Speaker 3 -->
+<!-- Speaker 2 -->
 <div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
 
   <div style="display:flex; align-items:center; gap:16px;">
@@ -247,7 +212,7 @@ Jia Hu works as a ZhongTe Distinguished Chair in Cooperative Automation in the C
 
 </div>
 
-<!-- Speaker 4 -->
+<!-- Speaker 3 -->
 <div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
 
   <div style="display:flex; align-items:center; gap:16px;">
@@ -281,6 +246,36 @@ and human–robot interaction. He has served as Chair of the IEEE SMC Society Te
   </div>
 
 </div>
+<!-- Speaker 4 -->
+<div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
+
+  <div style="display:flex; align-items:center; gap:16px;">
+    <!-- Profile Photo Placeholder -->
+    <div>
+      <img src="/assets/committee/Daofei_Li.jpg" alt="Daofei Li" style="width: 250px; height: auto; object-fit: cover; display: block;">
+    </div>
+    <!-- Name and Title -->
+    <div>
+      <h4 style="margin:0;">Daofei Li</h4>
+      <h5 style="margin:4px 0; color:#666;">Title: TBD</h5>
+    </div>
+  </div>
+
+  <!-- Abstract -->
+  <div style="margin-top:16px;font-size:16px;line-height:1.2">
+    <h6>Abstract</h6>
+    <p>
+TBD
+    </p>
+  </div>
+
+  <!-- Bibliography -->
+  <div style="margin-top:16px;font-size:16px;line-height:1.2">
+    <h6>Biography</h6>
+    <p>
+Daofei Li works as an Associate Professor at the College of Energy Engineering, Zhejiang University, China. He leads the research group of Human-Mobility-Automation (HMA Group).  His research includes Automated Driving, Vehicle Dynamics and Control, Human Factors in Smart Vehicles, Motion sickness and its mitigation, and New Energy Vehicle.
+    </p>
+  </div>
 
 <!-- Speaker 5 -->
 <div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
@@ -315,18 +310,21 @@ Fang You is a Professor and Ph.D. supervisor at the School of Arts and Media, To
 
 </div>
 
+
+
+</div>
 <!-- Speaker 6 -->
 <div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
 
   <div style="display:flex; align-items:center; gap:16px;">
     <!-- Profile Photo Placeholder -->
     <div>
-      <img src="/assets/committee/Daofei_Li.jpg" alt="Daofei Li" style="width: 250px; height: auto; object-fit: cover; display: block;">
+      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu"  style="width:auto; height:auto; object-fit:cover; border-radius:8px;">
     </div>
     <!-- Name and Title -->
     <div>
-      <h4 style="margin:0;">Daofei Li</h4>
-      <h5 style="margin:4px 0; color:#666;">Title: TBD</h5>
+      <h4 style="margin:0;width:80%;">Hailong Liu</h4>
+      <h5 style="margin:4px 0; color:#666; width:80%;">Title: Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</h5>
     </div>
   </div>
 
@@ -334,7 +332,7 @@ Fang You is a Professor and Ph.D. supervisor at the School of Arts and Media, To
   <div style="margin-top:16px;font-size:16px;line-height:1.2">
     <h6>Abstract</h6>
     <p>
-TBD
+In recent years, autonomous driving systems have been applied not only to cars but also to smaller robotic mobility platforms, such as Autonomous Personal Mobility Vehicles (APMVs). These autonomous vehicles (AVs) frequently encounter pedestrians during automated driving, especially APMVs, which are typically used in sidewalks and other shared spaces. To enhance the interaction experience between pedestrians and autonomous vehicles (AVs) and to reduce potential risks, it is essential to investigate pedestrians’ walking behaviors in such encounters and to understand the underlying psychological processes. In this talk, I will first introduce a study that investigates the causal relationships between pedestrians’ subjective feelings and their walking behaviors during interactions with an APMV equipped with an external human–machine interface (eHMI). Based on the causal factors identified in this study, I will then present an approach for improving pedestrian–autonomous car interactions.
     </p>
   </div>
 
@@ -342,7 +340,10 @@ TBD
   <div style="margin-top:16px;font-size:16px;line-height:1.2">
     <h6>Biography</h6>
     <p>
-Daofei Li works as an Associate Professor at the College of Energy Engineering, Zhejiang University, China. He leads the research group of Human-Mobility-Automation (HMA Group).  His research includes Automated Driving, Vehicle Dynamics and Control, Human Factors in Smart Vehicles, Motion sickness and its mitigation, and New Energy Vehicle.
+      Hailong LIU (IEEE S'15--M'19--SM'25) received his M.Eng. and Ph.D. degrees in Engineering from Ritsumeikan University, Japan, in 2015 and 2018, respectively. From Apr. 2016 to Mar. 2018, he was a JSPS Research Fellow for
+Young Scientists (DC2). He worked as a researcher at Nagoya University from Apr. 2018 to Oct. 2021. In Nov. 2021, he joined Nara Institute of Science and Technology (NAIST), Japan, as an Assistant Professor and was promoted to
+Associate Professor in Feb. 2024. His research interests focus on human factors and machine learning in
+intelligent transportation systems. He is a Senior Member of IEEE and holds memberships in IEEE ITSS, IEEE RAS, and IEEE SMC. He also serves on the Human Factors in ITS Committee of IEEE ITSS. In addition, he is a member of JSAE, JSAI, and SICE.
     </p>
   </div>
 
@@ -448,6 +449,7 @@ Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, 
 </div>
 
 <!-- Repeat this block for each speaker -->
+
 
 
 
