@@ -14,7 +14,7 @@
   <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
     <img src="/assets/committee/Junmin Wang.jpg" alt="Speaker Photo" style="width:180px; border-radius:10px; margin-right:20px;">
     <div>
-      <h3 style="margin:0;">Prof. Dr. Junmin Wang</h3>
+      <h3 style="margin:0;font-size:20px;">Prof. Dr. Junmin Wang</h3>
       <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA</p>
       <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
       <p style="margin-top:8px; font-size:14px;">
