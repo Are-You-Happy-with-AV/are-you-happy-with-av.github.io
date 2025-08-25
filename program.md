@@ -1,5 +1,5 @@
-Program is coming soon...
-<div style="font-size:3px;">
+<div style="background:#fff; border-radius:12px; padding:30px;  width:100%; margin:auto; box-shadow:0 4px 15px rgba(0,0,0,0.1); font-family:Arial, sans-serif; line-height:1.33;">
+
 <table border="10" cellspacing="6" cellpadding="10" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.3; font-size:12px; border:6px;">
    
   <!-- Column width definitions -->
@@ -447,6 +447,7 @@ Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, 
 </div>
 
 <!-- Repeat this block for each speaker -->
+
 
 
 
