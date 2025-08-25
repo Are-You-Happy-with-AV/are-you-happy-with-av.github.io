@@ -20,7 +20,7 @@
     </div>
     <!-- Abstract -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
-    <div style="background:#f1f3f5; padding:15px; border-radius:10px; font-size:14px; line-height:1.6;">
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.6;">
       Autonomous Driving (AD) vehicles still struggle to exhibit human-like behavior and socially interaction
       awareness in highly dynamic and interactive traffic scenarios...
     </div>
