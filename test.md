@@ -32,7 +32,7 @@
    TBD
   </div>
 </div>
-</div>
+
   <!-- Title -->
   <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:18px;">
     INVITED PRESENTATION 2 (20MIN + 10MIN)
