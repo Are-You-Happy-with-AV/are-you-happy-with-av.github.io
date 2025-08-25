@@ -11,14 +11,7 @@ Program is coming soon...
     <col style="width:40%;">
     <col style="width:5%;">
   </colgroup>
-  <style>
-img {
-  width: auto !important;       /* 宽度占页面的 15% */
-  height:  15% !important;  
-  object-fit: cover !important; /* 保持比例裁剪，不会变形 */
-  border-radius: 8px; /* 可选，圆角更好看 */
-}
-</style>
+
   <tr style="background-color:lightgrey;border:20px;">
     <th style="font-size:12px;padding:8px">Session</th>
     <th style="font-size:12px;padding:8px">Presentation</th>
