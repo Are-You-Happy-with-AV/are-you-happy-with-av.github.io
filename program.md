@@ -189,8 +189,8 @@ TBD
     </div>
     <!-- Name and Title -->
     <div>
-      <h4 style="margin:0;">Jia Hu</h4>
-      <h5 style="margin:4px 0; color:#666;">Title: Towards socially-aware autonomous driving: An interpretable data-driven perspective</h5>
+      <h4 style="margin:0;width:85%;">Jia Hu</h4>
+      <h5 style="margin:4px 0; color:#666;width:85%;">Title: Towards socially-aware autonomous driving: An interpretable data-driven perspective</h5>
     </div>
   </div>
 
@@ -447,6 +447,7 @@ Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, 
 </div>
 
 <!-- Repeat this block for each speaker -->
+
 
 
 
