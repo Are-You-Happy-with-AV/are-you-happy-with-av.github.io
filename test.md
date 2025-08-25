@@ -6,7 +6,7 @@
   </div>
 
   <!-- Subtitle -->
-  <div style="font-size:22px; font-weight:bold; margin-bottom:20px;">
+<div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
    TBD
   </div>
 
@@ -35,7 +35,7 @@
   </div>
 
   <!-- Subtitle -->
-  <div style="font-size:22px; font-weight:bold; margin-bottom:20px;">
+  <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
     Towards socially-aware autonomous driving: An interpretable data-driven perspective
   </div>
 
