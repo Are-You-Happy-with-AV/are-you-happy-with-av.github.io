@@ -1,6 +1,6 @@
 <div style="max-width:1980px; width:100%; margin:auto; font-family:Arial, sans-serif; line-height:1.33;">
 
-<div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
+
   <div style="font-size:3px;">
 <table border="10" cellspacing="6" cellpadding="10" style="border-collapse: collapse; text-align:center; width:100%; line-height:1.3; font-size:12px; border:6px;">
    
@@ -146,7 +146,6 @@
   </tr>
 </table>
 </div>
- </div>
  <div style="height:15px;"></div>
 
  <!-- Speaker 1 -->
