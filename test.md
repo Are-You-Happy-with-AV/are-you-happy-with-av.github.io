@@ -46,7 +46,7 @@
       <h3 style="margin:0;">Prof. Dr. Jia Hu</h3>
       <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China</p>
       <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
-      <p style="margin-top:8px; font-size:14px;">
+      <p style="margin-top:8px; font-size:14px;line-height:1.33;">
         Jia Hu works as a ZhongTe Distinguished Chair in Cooperative Automation in the College of Transportation Engineering at Tongji University. Before joining Tongji, he was a research associate at the Federal Highway Administration, USA (FHWA). He is an Associate Editor of the IEEE Transaction on Intelligent Transportation Systems, IEEE Transaction on Intelligent Vehicle, American Society of Civil Engineers Journal of Transportation Engineering, IEEE Open Journal in Intelligent Transportation Systems, an assistant editor of the Journal of Intelligent Transportation Systems, an advisory editorial board member for the Transportation Research Part C, an associate editor for IEEE Intelligent Vehicles Symposium since 2018, and an associate editor for IEEE Intelligent Transportation Systems Conference since 2019. Furthermore, he is a vice chair of the SAE-China Intelligent Transportation Committee.
       </p>
     </div>
