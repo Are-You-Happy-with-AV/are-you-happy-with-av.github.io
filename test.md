@@ -14,7 +14,7 @@
     <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
       <img src="/assets/committee/jia_Hu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
-        <h3 style="margin:0; font-size:18px;">Prof. Dr. Jia Hu</h3>
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Jia Hu</h3>
         <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China</p>
       </div>
     </div>
