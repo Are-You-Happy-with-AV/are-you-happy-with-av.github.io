@@ -151,7 +151,7 @@ Program is coming soon...
   <div style="display:flex; align-items:center; gap:16px;">
     <!-- Profile Photo Placeholder -->
     <div>
-      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu"  style="width:20%; height:auto; object-fit:cover; border-radius:8px;">
+      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu"  style="width:auto; height:auto; object-fit:cover; border-radius:8px;">
     </div>
     <!-- Name and Title -->
     <div>
@@ -448,6 +448,7 @@ Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, 
 </div>
 
 <!-- Repeat this block for each speaker -->
+
 
 
 
