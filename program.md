@@ -33,14 +33,14 @@ Program is coming soon...
     <td style="font-size:12px;padding:8px">Prof. Junming Wang</td>
     <td style="font-size:12px;padding:8px">UT Austin, US</td>
     <td style="font-size:12px;padding:8px">TBD</td>
-    <td style="font-size:12px;padding:8px">09:40-10:10</td>
+    <td style="font-size:12px;padding:8px">09:10-09:40</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Invited speaker 2</td>
     <td style="font-size:12px;padding:8px">Prof. Jia Hu</td>
     <td style="font-size:12px;padding:8px">Tongji Uni., China</td>
     <td style="font-size:12px;padding:8px">Towards socially-aware autonomous driving: An interpretable data-driven perspective</td>
-    <td style="font-size:12px;padding:8px">10:10-10:40</td>
+    <td style="font-size:12px;padding:8px">09:40-10:10</td>
   </tr>
   <tr style="background-color:lightgrey;border:20px;">
     <td colspan="5" style="font-size:12px;padding:8px"><b>Coffee break</b>
