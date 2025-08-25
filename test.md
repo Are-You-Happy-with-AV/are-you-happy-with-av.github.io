@@ -1,9 +1,38 @@
-<div style="max-width:1400px; width:90%; margin:auto; font-family:Arial, sans-serif; line-height:1.33;">
-
+<div style="max-width:1980px; width:100%; margin:auto; font-family:Arial, sans-serif; line-height:1.33;">
+  
+ <!-- Speaker 1 -->
+  <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
+    <!-- Title -->
+    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
+      INVITED PRESENTATION 1 (20MIN + 10MIN)
+    </div>
+    <!-- Subtitle -->
+    <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
+      Title：TBD
+    </div>
+    <!-- Profile -->
+    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+      <img src="/assets/committee/junmin wang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <div style="flex:1; min-width:200px;">
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Junmin Wang</h3>
+        <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA
+      </div>
+    </div>
+    <!-- Abstract -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+     TBD
+    </div>
+    <!-- Biography -->
+    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+     Junmin Wang is the Fletcher Stuckey Pratt Chair in Engineering and a Professor in Mechanical Engineering at University of Texas at Austin. In 2008, he started his academic career at Ohio State University, where he founded the Vehicle Systems and Control Laboratory, was early promoted to Associate Professor in September 2013 and then very early promoted to Full Professor in June 2016. In 2018, he left Ohio State University and joined University of Texas at Austin as the Accenture Endowed Professor in Mechanical Engineering. Professor Wang has a wide range of research interests covering control, modeling, estimation, optimization, diagnosis, and AI for dynamical systems, especially for automotive, vehicle, transportation, mobility, human-automation, robotic, energy storage, and manufacturing applications. Prof. Wang’s research contributions include the development of control and estimation methods that advance efficiency, driving safety, and emission performance of conventional, electrified, connected and autonomous/automated vehicles. He has five years of full-time industrial research experience (2003-2008) at Southwest Research Institute (San Antonio, Texas) where he was a Senior Research Engineer and led research projects sponsored by more than 50 industrial companies and governmental agencies worldwide. Prof. Wang’s research programs at UT Austin and Ohio State University have been funded by federal agencies and industrial companies such as National Science Foundation (NSF), Office of Naval Research (ONR), Department of Energy (DOE), U.S. Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), Army Research Lab (ARL), Texas Department of Transportation, GM, Ford, Honda, Tenneco, Eaton, Ftech, Denso, and others..
+</div>
+    
   <!-- Speaker 2 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
-    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:14px; text-align:left;">
+    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
       INVITED PRESENTATION 2 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
@@ -15,7 +44,7 @@
       <img src="/assets/committee/jia_Hu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Jia Hu</h3>
-        <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China</p>
+        <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China
       </div>
     </div>
     <!-- Abstract -->
