@@ -30,9 +30,9 @@
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Invited speaker 1</td>
-    <td style="font-size:12px;padding:8px">Prof. Junming Wang</td>
+    <td style="font-size:12px;padding:8px">Prof. Junmin Wang</td>
     <td style="font-size:12px;padding:8px">UT Austin, US</td>
-    <td style="font-size:12px;padding:8px">TBD</td>
+    <td style="font-size:12px;padding:8px">Quantification of Driver Attentiveness and Impact of Visual Communication in Vehicle Lane-Keeping Automation</td>
     <td style="font-size:12px;padding:8px">09:10-09:40</td>
   </tr>
   <tr style="border:20px;">
@@ -154,7 +154,7 @@
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
-      Title：TBD
+      Quantification of Driver Attentiveness and Impact of Visual Communication in Vehicle Lane-Keeping Automation
     </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
