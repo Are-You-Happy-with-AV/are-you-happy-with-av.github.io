@@ -1,5 +1,7 @@
 <div style="background:#fff; border-radius:12px; padding:30px;  width:100%; margin:auto; box-shadow:0 4px 15px rgba(0,0,0,0.1); font-family:Arial, sans-serif; line-height:1.33;">
 
+
+<!-- Box -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);">
 <!-- Title -->
   <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:18px;">
@@ -16,21 +18,22 @@
     <img src="/assets/committee/Junmin Wang.jpg" alt="Speaker Photo" style="width:180px; border-radius:10px; margin-right:20px;">
     <div>
       <h3 style="margin:0;font-size:22px;">Prof. Dr. Junmin Wang</h3>
-      <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA</p>
-      
+      <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA</p>   
   </div>
    </div>
+   
+     <!-- Abstract -->
+  <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
+  <div style="background:#f1f3f5; padding:15px; border-radius:10px; font-size:14px;">
+   TBD
+  </div>
    <!-- Biography -->
 <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
       <p style="margin-top:8px; font-size:14px;line-height:1.33;">
        Junmin Wang is the Fletcher Stuckey Pratt Chair in Engineering and a Professor in Mechanical Engineering at University of Texas at Austin. In 2008, he started his academic career at Ohio State University, where he founded the Vehicle Systems and Control Laboratory, was early promoted to Associate Professor in September 2013 and then very early promoted to Full Professor in June 2016. In 2018, he left Ohio State University and joined University of Texas at Austin as the Accenture Endowed Professor in Mechanical Engineering. Professor Wang has a wide range of research interests covering control, modeling, estimation, optimization, diagnosis, and AI for dynamical systems, especially for automotive, vehicle, transportation, mobility, human-automation, robotic, energy storage, and manufacturing applications. Prof. Wang’s research contributions include the development of control and estimation methods that advance efficiency, driving safety, and emission performance of conventional, electrified, connected and autonomous/automated vehicles. He has five years of full-time industrial research experience (2003-2008) at Southwest Research Institute (San Antonio, Texas) where he was a Senior Research Engineer and led research projects sponsored by more than 50 industrial companies and governmental agencies worldwide. Prof. Wang’s research programs at UT Austin and Ohio State University have been funded by federal agencies and industrial companies such as National Science Foundation (NSF), Office of Naval Research (ONR), Department of Energy (DOE), U.S. Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), Army Research Lab (ARL), Texas Department of Transportation, GM, Ford, Honda, Tenneco, Eaton, Ftech, Denso, and others.
       </p>
     </div>
-  <!-- Abstract -->
-  <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
-  <div style="background:#f1f3f5; padding:15px; border-radius:10px; font-size:14px;">
-   TBD
-  </div>
+
 </div>
 
   <!-- Title -->
