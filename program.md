@@ -151,7 +151,7 @@ Program is coming soon...
   <div style="display:flex; align-items:center; gap:16px;">
     <!-- Profile Photo Placeholder -->
     <div>
-      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: auto; height: 250px; object-fit: cover; display: block;">
+      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu"  style="width:200px; height:200px; object-fit:cover; border-radius:8px;">
     </div>
     <!-- Name and Title -->
     <div>
@@ -187,7 +187,7 @@ intelligent transportation systems. He is a Senior Member of IEEE and holds memb
   <div style="display:flex; align-items:center; gap:16px;">
     <!-- Profile Photo Placeholder -->
     <div>
-      <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang" style="width: 250px; height: auto; object-fit: cover; display: block;">
+      <img src="/assets/committee/Junmin Wang.jpg" alt="Junmin Wang"  style="width:200px; height:200px; object-fit:cover; border-radius:8px;">
     </div>
     <!-- Name and Title -->
     <div>
