@@ -14,7 +14,7 @@
   <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
     <img src="/assets/committee/Junmin Wang.jpg" alt="Speaker Photo" style="width:180px; border-radius:10px; margin-right:20px;">
     <div>
-      <h3 style="margin:0;font-size:20px;">Prof. Dr. Junmin Wang</h3>
+      <h3 style="margin:0;font-size:22px;">Prof. Dr. Junmin Wang</h3>
       <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA</p>
       <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
       <p style="margin-top:8px; font-size:14px;line-height:1.33;">
@@ -43,7 +43,7 @@
   <div style="display:flex; align-items:flex-start; margin-bottom:20px;">
     <img src="/assets/committee/jia_Hu.jpg" alt="Speaker Photo" style="width:180px; border-radius:10px; margin-right:20px;">
     <div>
-      <h3 style="margin:0;">Prof. Dr. Jia Hu</h3>
+      <h3 style="margin:0;font-size:22px;">Prof. Dr. Jia Hu</h3>
       <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China</p>
       <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
       <p style="margin-top:8px; font-size:14px;line-height:1.33;">
@@ -53,7 +53,7 @@
   </div>
 
   <!-- Abstract -->
-  <div style="background:#f1f3f5;font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
+  <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
   <div style="background:#f1f3f5; padding:15px; border-radius:10px; font-size:14px;">
    Autonomous Driving (AD) vehicles still struggle to exhibit human-like behavior and socially interaction awareness in highly dynamic and interactive traffic scenarios. The key challenge lies in AD’s limited ability to interact with surrounding vehicles due to a lack of understanding of the underlying social interaction mechanisms. To address this issue, MPCFormer is introduced, which is an interpretable data-driven approach for socially-aware autonomous driving. To the best of the knowledge, MPCFormer is the first to explicitly model the dynamics of social interaction mechanism between vehicles. A novel interpretable data-driven modeling paradigm is introduced to ensure modeling interpretability. Afterwards, a socially-aware Transformer-based encoder-decoder architecture learns the social interaction dynamics from natural driving data. By integrating the learned social interaction dynamics into motion planning, the AD can proactively interact with surrounding vehicles. The planning safety is guaranteed by social interaction mechanism awareness and the safety constraints. Open-looped evaluation demonstrates that with the socially-aware capability, MPCFormer achieves the lowest trajectory prediction errors, from ADE@1s (0.12m) to ADE@5s (0.86m). Close-looped evaluation confirms the modeling interpretability of MPCFormer. Meanwhile, MPCFormer achieves the best planning success rate of 94.67%, improves driving efficiency by 15.75%, and saves lane change distance by 49.01%.
   </div>
