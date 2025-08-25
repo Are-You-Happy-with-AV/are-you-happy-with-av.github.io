@@ -29,7 +29,8 @@
      Junmin Wang is the Fletcher Stuckey Pratt Chair in Engineering and a Professor in Mechanical Engineering at University of Texas at Austin. In 2008, he started his academic career at Ohio State University, where he founded the Vehicle Systems and Control Laboratory, was early promoted to Associate Professor in September 2013 and then very early promoted to Full Professor in June 2016. In 2018, he left Ohio State University and joined University of Texas at Austin as the Accenture Endowed Professor in Mechanical Engineering. Professor Wang has a wide range of research interests covering control, modeling, estimation, optimization, diagnosis, and AI for dynamical systems, especially for automotive, vehicle, transportation, mobility, human-automation, robotic, energy storage, and manufacturing applications. Prof. Wang’s research contributions include the development of control and estimation methods that advance efficiency, driving safety, and emission performance of conventional, electrified, connected and autonomous/automated vehicles. He has five years of full-time industrial research experience (2003-2008) at Southwest Research Institute (San Antonio, Texas) where he was a Senior Research Engineer and led research projects sponsored by more than 50 industrial companies and governmental agencies worldwide. Prof. Wang’s research programs at UT Austin and Ohio State University have been funded by federal agencies and industrial companies such as National Science Foundation (NSF), Office of Naval Research (ONR), Department of Energy (DOE), U.S. Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), Army Research Lab (ARL), Texas Department of Transportation, GM, Ford, Honda, Tenneco, Eaton, Ftech, Denso, and others..
 </div>
  </div>
- 
+ <div style="height:30px;"></div>
+
   <!-- Speaker 2 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
@@ -59,7 +60,7 @@
      Jia Hu works as a ZhongTe Distinguished Chair in Cooperative Automation in the College of Transportation Engineering at Tongji University. Before joining Tongji, he was a research associate at the Federal Highway Administration, USA (FHWA). He is an Associate Editor of the IEEE Transaction on Intelligent Transportation Systems, IEEE Transaction on Intelligent Vehicle, American Society of Civil Engineers Journal of Transportation Engineering, IEEE Open Journal in Intelligent Transportation Systems, an assistant editor of the Journal of Intelligent Transportation Systems, an advisory editorial board member for the Transportation Research Part C, an associate editor for IEEE Intelligent Vehicles Symposium since 2018, and an associate editor for IEEE Intelligent Transportation Systems Conference since 2019. Furthermore, he is a vice chair of the SAE-China Intelligent Transportation Committee.
 </div>
 </div>
-
+ <div style="height:30px;"></div>
       <!-- Speaker 3 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
@@ -89,7 +90,8 @@
      Prof. Takahiro Wada received his Ph.D. degree in Robotics from Ritsumeikan University in 1999. He then joined the Department of Robotics at the same university as a Research Associate. In 2000, he moved to Kagawa University as an Assistant Professor and was promoted to Associate Professor in 2007. In 2012, he became a Full Professor at the College of Information Science and Engineering, Ritsumeikan University. Since 2021, he has been a Full Professor at the Nara Institute of Science and Technology. His research interests include human–machine systems, human modeling, and human–robot interaction. He has served as Chair of the IEEE SMC Society Technical Committee on Haptic Shared Control and as Co-Chair of the IFAC Technical Committee on Human-Machine Systems.
 </div>
 </div>
-
+ <div style="height:30px;"></div>
+ 
    <!-- Speaker 4 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
@@ -119,7 +121,8 @@
     Daofei Li received the B.S. degree in Vehicle Engineering from the Jilin University, Changchun, China, in 2003, and the Ph.D. degree in Vehicle Engineering from the Shanghai Jiao Tong University, Shanghai, China, in 2008. Since June 2008, he joined the Institute for Power Machinery and Vehicular Engineering, Faculty of Engineering, Zhejiang University (ZJU), Hangzhou, China. He was a Visiting Scholar with the University of Missouri-Columbia in 2011, and later with the University of Michigan, Ann Arbor, Michigan from 2014 to 2016. He is currently Associate Professor with ZJU and directs the Research Group of Human-Mobility-Automation. His research interests include vehicle dynamics and control, driver model and autonomous driving. 
 </div>  
 </div>
-
+ <div style="height:30px;"></div>
+ 
        <!-- Speaker 5 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
@@ -132,7 +135,7 @@
     </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
-      <img src="/assets/committee/Daofei_Li.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <img src="/assets/committee/Fang You.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Fang You</h3>
         <p style="margin-top:8px; font-style:italic;">Tthe School of Arts and Media, Tongji University, China</p>
@@ -149,6 +152,6 @@
     Fang You is a Professor and Ph.D. supervisor at the School of Arts and Media, Tongji University, where she leads the User Experience Laboratory and the Automotive Interaction Design Laboratory. She is also a Fellow of the Royal Society of Arts (FRSA). Her main research interests include cognitive interaction design, intelligent cockpit design and evaluation, hybrid space information, and embodied design. In recent years, she has led more than ten major projects, including the National Natural Science Foundation of China, the National Social Science Fund, projects funded by the Ministry of Science and Technology, and several provincial-level grants. She has published over 80 papers, authored five books and two textbooks, and holds 17 invention patents along with numerous utility and design patents. She has established long-term collaborations with companies such as Huawei, Baidu, and SAIC, as well as universities and research institutes in Germany and Australia. Her research outcomes have been widely applied in intelligent cockpits and human–computer interaction.
 </div> 
 </div>
-
+ <div style="height:30px;"></div>
 
 </div>
