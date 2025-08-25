@@ -15,7 +15,7 @@
       <img src="/assets/committee/Junmin Wang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Junmin Wang</h3>
-        <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA
+        <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA</p>
       </div>
     </div>
     <!-- Abstract -->
@@ -45,7 +45,7 @@
       <img src="/assets/committee/jia_Hu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Jia Hu</h3>
-        <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China
+        <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China</p>
       </div>
     </div>
     <!-- Abstract -->
@@ -75,7 +75,7 @@
       <img src="/assets/committee/TakahiroWADA.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Takahiro Wada</h3>
-        <p style="margin-top:8px; font-style:italic;">Graduate School of Science and Technology, NAIST, Japan
+        <p style="margin-top:8px; font-style:italic;">Graduate School of Science and Technology, NAIST, Japan</p>
       </div>
     </div>
     <!-- Abstract -->
@@ -105,7 +105,7 @@
       <img src="/assets/committee/Daofei_Li.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Asso. Prof. Dr. Daofei Li</h3>
-        <p style="margin-top:8px; font-style:italic;">Zhejiang University, China
+        <p style="margin-top:8px; font-style:italic;">Zhejiang University, China</p>
       </div>
     </div>
     <!-- Abstract -->
@@ -135,7 +135,7 @@
       <img src="/assets/committee/Daofei_Li.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Fang You</h3>
-        <p style="margin-top:8px; font-style:italic;">Tthe School of Arts and Media, Tongji University, China
+        <p style="margin-top:8px; font-style:italic;">Tthe School of Arts and Media, Tongji University, China</p>
       </div>
     </div>
     <!-- Abstract -->
