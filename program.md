@@ -172,7 +172,7 @@ TBD
   <!-- Bibliography -->
   <div style="margin-top:16px;font-size:16px;line-height:1.2">
     <h6>Biography</h6>
-    <p>
+    <p style="margin-top:8px; font-size:14px;line-height:1.33;">
       Junmin Wang is the Fletcher Stuckey Pratt Chair in Engineering and a Professor in Mechanical Engineering at University of Texas at Austin.  In 2008, he started his academic career at Ohio State University, where he founded the Vehicle Systems and Control Laboratory, was early promoted to Associate Professor in September 2013 and then very early promoted to Full Professor in June 2016.  In 2018, he left Ohio State University and joined University of Texas at Austin as the Accenture Endowed Professor in Mechanical Engineering.  Professor Wang has a wide range of research interests covering control, modeling, estimation, optimization, diagnosis, and AI for dynamical systems, especially for automotive, vehicle, transportation, mobility, human-automation, robotic, energy storage, and manufacturing applications.  Prof. Wang’s research contributions include the development of control and estimation methods that advance efficiency, driving safety, and emission performance of conventional, electrified, connected and autonomous/automated vehicles. He has five years of full-time industrial research experience (2003-2008) at Southwest Research Institute (San Antonio, Texas) where he was a Senior Research Engineer and led research projects sponsored by more than 50 industrial companies and governmental agencies worldwide. Prof. Wang’s research programs at UT Austin and Ohio State University have been funded by federal agencies and industrial companies such as National Science Foundation (NSF), Office of Naval Research (ONR), Department of Energy (DOE), U.S. Department of Transportation (DOT), National Highway Traffic Safety Administration (NHTSA), Army Research Lab (ARL), Texas Department of Transportation, GM, Ford, Honda, Tenneco, Eaton, Ftech, Denso, and others.
     </p>
   </div>
@@ -447,6 +447,7 @@ Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, 
 </div>
 
 <!-- Repeat this block for each speaker -->
+
 
 
 
