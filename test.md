@@ -188,7 +188,7 @@
       Towards socially-aware autonomous driving: An interpretable data-driven perspective
     </div>
     <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/jia_Hu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Jia Hu</h3>
@@ -219,7 +219,7 @@
       Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort
     </div>
     <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/TakahiroWADA.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Takahiro Wada</h3>
@@ -250,7 +250,7 @@
       Human-centered approach to automated driving: from decision-making, motion planning to control
     </div>
     <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/Daofei_Li.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Asso. Prof. Dr. Daofei Li</h3>
@@ -281,7 +281,7 @@
      Design of Interactive Safety Warning Information Design of External Display Interface for Autonomous Driving Vehicles
     </div>
     <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/Fang You.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Fang You</h3>
@@ -312,7 +312,7 @@
 Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs
       </div>
     <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/Hailong liu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">
@@ -347,7 +347,7 @@ Causal Discovery from Psychological States to Walking Behaviors for Pedestrians 
     Title：TBD
     </div>
     <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/Adriana Tapus.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Adriana Tapus</h3>
@@ -378,7 +378,7 @@ Causal Discovery from Psychological States to Walking Behaviors for Pedestrians 
      IXAI: Generative Design of Automotive Styling Based on Inception Convolution with Explainable AI
     </div>
     <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/Jianmin Wang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Jianmin Wang</h3>
@@ -409,7 +409,7 @@ Causal Discovery from Psychological States to Walking Behaviors for Pedestrians 
      Multimodal Understanding for Autonomous Driving
     </div>
     <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:flex-start; margin-bottom:20px;">
+    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/bo_jiang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Bo Jiang</h3>
