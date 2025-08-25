@@ -158,7 +158,7 @@ img {
   <div style="display:flex; align-items:center; gap:16px;">
     <!-- Profile Photo Placeholder -->
     <div>
-      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: 250px; height: auto; object-fit: cover; display: block;">
+      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu" style="width: auto; height: 250px; object-fit: cover; display: block;">
     </div>
     <!-- Name and Title -->
     <div>
