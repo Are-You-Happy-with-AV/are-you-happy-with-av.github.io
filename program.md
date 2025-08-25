@@ -276,6 +276,7 @@ TBD
 Daofei Li works as an Associate Professor at the College of Energy Engineering, Zhejiang University, China. He leads the research group of Human-Mobility-Automation (HMA Group).  His research includes Automated Driving, Vehicle Dynamics and Control, Human Factors in Smart Vehicles, Motion sickness and its mitigation, and New Energy Vehicle.
     </p>
   </div>
+  </div>
 
 <!-- Speaker 5 -->
 <div style="border:1px solid #ccc; border-radius:8px; padding:16px; margin:20px 0;">
@@ -449,6 +450,7 @@ Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, 
 </div>
 
 <!-- Repeat this block for each speaker -->
+
 
 
 
