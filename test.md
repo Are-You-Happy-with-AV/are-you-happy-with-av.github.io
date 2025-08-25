@@ -1,5 +1,5 @@
 <div style="background:#fff; border-radius:12px; padding:30px;  width:100%; margin:auto; box-shadow:0 4px 15px rgba(0,0,0,0.1); font-family:Arial, sans-serif; line-height:1.33;">
-
+<div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.05);">
 <!-- Title -->
   <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:18px;">
     INVITED PRESENTATION 1 (20MIN + 10MIN)
@@ -28,6 +28,7 @@
   <div style="background:#f1f3f5; padding:15px; border-radius:10px; font-size:14px;">
    TBD
   </div>
+</div>
 
   <!-- Title -->
   <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:18px;">
