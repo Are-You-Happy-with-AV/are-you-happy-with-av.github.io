@@ -151,11 +151,11 @@ Program is coming soon...
   <div style="display:flex; align-items:center; gap:16px;">
     <!-- Profile Photo Placeholder -->
     <div>
-      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu"  style="width:200px; height:200px; object-fit:cover; border-radius:8px;">
+      <img src="/assets/committee/Hailong liu.jpg" alt="Hailong Liu"  style="width:15%; height:auto; object-fit:cover; border-radius:8px;">
     </div>
     <!-- Name and Title -->
     <div>
-      <h4 style="margin:0;">Hailong Liu</h4>
+      <h4 style="margin:0;width:85%">Hailong Liu</h4>
       <h5 style="margin:4px 0; color:#666;">Title: Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</h5>
     </div>
   </div>
