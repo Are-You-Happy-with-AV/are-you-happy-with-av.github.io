@@ -13,8 +13,8 @@ Program is coming soon...
   </colgroup>
   <style>
 img {
-  width: 200px;
-  height: 200px;
+  width: 250px;
+  height: 250px;
   object-fit: cover; /* 保持比例裁剪，不会变形 */
   border-radius: 8px; /* 可选，圆角更好看 */
 }
