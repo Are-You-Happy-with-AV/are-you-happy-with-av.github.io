@@ -43,8 +43,8 @@ The prospect of wide-scale development of automated vehicles (AVs) is due to adv
 #### Peer-reviewed and Publication
 - The extended abstract of the workshop poster will be peer-reviewed.
 - Submittion open: <font color="red">2025/06/06</font>
-- Submittion DDL: <font color="red">2025/08/15</font>
-- Notification:  <font color="red">2025/09/01</font>
+- Submittion DDL: <font color="red"><del>2025/08/15</del><ins>2025/09/30</ins></font>
+- Notification:  <font color="red"><del>2025/09/01</del><ins>2025/10/15</ins></font>
 - The accepted workshop poster and its extended abstract will be published on the workshop website, but they will NOT be included in the IROS 2025 proceedings or published on IEEE Xplore. 
 
 ## Committee
