@@ -191,10 +191,8 @@ Luciano Cavalcante Siebert, David Abbink, Arkady Zgonnikov</td>
       <img src="/assets/committee/Junmin Wang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Junmin Wang</h3>
-        <p style="margin-top:8px; font-style:italic;">IEEE Fellow – ASME Fellow – SAE Fellow
-
-Fletcher Stuckey Pratt Chair Professor in Engineering
-
+        <p style="margin-top:8px; font-style:italic;">IEEE Fellow – ASME Fellow – SAE Fellow<br>
+Fletcher Stuckey Pratt Chair Professor in Engineering<br>
 University of Texas at Austin</p>
       </div>
     </div>
