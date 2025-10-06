@@ -184,20 +184,25 @@ Luciano Cavalcante Siebert, David Abbink, Arkady Zgonnikov</td>
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
-      Quantification of Driver Attentiveness and Impact of Visual Communication in Vehicle Lane-Keeping Automation
+      Quantification of Driver Attentiveness and Impact of Visual Communication in Vehicle Lane-keeping Automation
     </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/Junmin Wang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
         <h3 style="margin:0; font-size:24px;">Prof. Dr. Junmin Wang</h3>
-        <p style="margin-top:8px; font-style:italic;">University of Texas at Austin, USA</p>
+        <p style="margin-top:8px; font-style:italic;">IEEE Fellow – ASME Fellow – SAE Fellow
+
+Fletcher Stuckey Pratt Chair Professor in Engineering
+
+University of Texas at Austin</p>
       </div>
     </div>
     <!-- Abstract -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-     TBD
+     This talk presents recent advances in understanding and supporting human attentiveness in vehicle lane-keeping automation. First, we introduce a personalizable, physics-based model that quantifies individual drivers’ expected attentiveness under varying driving conditions. The model formulates cognitive load as a function of vehicle speed and road curvature and leverages intuitive, gaze-derived indicators that provide greater interpretability than conventional metrics and allow for driver-specific customization. Using a high-fidelity driving simulator and an eye-tracking system, we integrated objective gaze data with subjective ratings via the NASA Task Load Index to optimize model parameters and validate predictive performance through human subject experiments. The model enables estimation of whether a driver is under-, over-, or appropriately attentive, supporting human-centric vehicle automation.
+Complementing this modeling perspective, we also explore the role of visual communication in shaping driver-vehicle collaboration. Visual displays are widely used in vehicle automation systems to convey the vehicle’s perception of the environment to drivers and passengers, but the effect of communication detail on human workload, engagement, and acceptance remains underexplored. To address this, we conducted a pilot study in a driving simulator to assess how varying levels of detail in visual communication impact drivers. Both objective and subjective evaluations were performed, showing good agreement across assessment methods. Together, these studies highlight how quantifying driver attentiveness and systematically designing visual communication can jointly advance safe, effective, and human-centered lane-keeping automation.
     </div>
     <!-- Biography -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
