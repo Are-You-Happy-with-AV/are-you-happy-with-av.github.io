@@ -32,7 +32,7 @@
     <td style="font-size:12px;padding:8px">Invited speaker 1</td>
     <td style="font-size:12px;padding:8px">Prof. Junmin Wang</td>
     <td style="font-size:12px;padding:8px">UT Austin, US</td>
-    <td style="font-size:12px;padding:8px">TBD</td>
+    <td style="font-size:12px;padding:8px">Quantification of Driver Attentiveness and Impact of Visual Communication in Vehicle Lane-keeping Automation</td>
     <td style="font-size:12px;padding:8px">09:10-09:40</td>
   </tr>
   <tr style="border:20px;">
