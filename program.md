@@ -211,14 +211,14 @@ Complementing this modeling perspective, we also explore the role of visual comm
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
-      Towards socially-aware autonomous driving: An interpretable data-driven perspective
+      Security and Privacy of Connected Vehicles: Gaps in Perception among AI, Humans, and Developers
     </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
-        <h3 style="margin:0; font-size:24px;">Prof. Dr. Prof. Dr. Tatsuya Mori</h3>
-        <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China</p>
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Tatsuya Mori</h3>
+        <p style="margin-top:8px; font-style:italic;">Waseda University, Tokyo, Japan</p>
       </div>
     </div>
     <!-- Abstract -->
