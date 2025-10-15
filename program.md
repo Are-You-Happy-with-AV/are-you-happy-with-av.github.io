@@ -193,7 +193,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 3 (20MIN + 10MIN)
+      INVITED PRESENTATION 2 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
@@ -224,7 +224,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 4 (20MIN + 10MIN)
+      INVITED PRESENTATION 3 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
@@ -255,7 +255,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 5 (20MIN + 10MIN)
+      INVITED PRESENTATION 4 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
@@ -286,7 +286,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 9 (20MIN + 10MIN)
+      INVITED PRESENTATION 5 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
@@ -317,7 +317,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 7 (35MIN + 10MIN)
+      INVITED PRESENTATION 6 (30MIN + 15MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
@@ -327,7 +327,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
     <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
       <img src="/assets/committee/Adriana Tapus.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
-        <h3 style="margin:0; font-size:24px;">Prof. Dr. Adriana Tapus</h3>
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Adriana Tapus and Dr. Zhegong Shangguan</h3>
         <p style="margin-top:8px; font-style:italic;">ENSTA Paris, France</p>
       </div>
     </div>
@@ -341,6 +341,9 @@ Complementing this modeling perspective, we also explore the role of visual comm
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
     Adriana Tapus is a Professor at ENSTA Paris, member of the Institut Polytechnique de Paris, in the Autonomous Systems and Robotics Laboratory of the Computer Science and Systems Engineering Unit (U2IS). In 2011, she obtained Habilitation (HDR) for her thesis titled "Towards a personalized Human-Robot Interaction". She obtained her PhD in Computer Science from the Swiss Federal Institute of Technology in Lausanne (EPFL), Switzerland in 2005 and her degree in Computer Engineering from Polytechnic University of Bucharest, Romania in 2001. She has worked as a Research Associate at the University of Southern California (USC), where she was among the pioneers in the development of socially assistive robotics, contributing mainly in machine learning, human modeling, and human-robot interaction. Prof. Tapus is Associate Editor of the International Journal on Social Robotics (IJSR), ACM Transactions on Human-Robot Interaction (THRI), and IEEE Transactions on Cognitive and Developmental Systems (TCDS) and is on the steering committee of several major robotics conferences (IROS, ICRA, HRI, RO-MAN, etc.). She has more than 150 research publications and received the Romanian Academy Award for her contribution in assistive robotics in 2010. In 2016 she was nominated as one of the “25 women in robotics you need to know about”. She has been the main coordinator of several national and international projects. Since 2019, she is also a founder member of the RoboticsByDesign lab. Since 2019, she is also the DIrector of the DOctoral School of IP Paris.
 </div> 
+    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
+    Zhegong Shangguan is a Research Associate/Postdoctoral Researcher at the University of Manchester, specializing in cognitive robotics, human-robot interaction, and psychology. His research explores the development of human cognition, employing cognitive and developmental robotics approaches to investigate this process. By integrating these methodologies, he aims to enhance robots with advanced cognitive capabilities and expressive emotional interactions. Currently, he is working on the ERC-funded e-TALK project under the supervision of Prof. Angelo Cangelosi at the Cognitive Robotics Lab, University of Manchester. He obtained his Ph.D. in Computer Science from École Nationale Supérieure de Techniques Avancées (ENSTA), Institut Polytechnique de Paris, where he conducted research at the U2IS (L'unité d'Informatique et d'Ingénierie des Systèmes) Laboratory under the supervision of Prof. Adriana Tapus. His doctoral work focused on social robotics and trustworthy human-vehicle interaction. In addition to his research, he serves as a reviewer for leading journals and conferences, including The International Journal of Robotics Research (IJRR), the International Journal of Human-Computer Interaction (IJHCI), CSCW, IROS, and ICRA. He is also a member of the Editorial Board for Embodied Intelligence and Robotics and a committee member of the ECSCW 2025 Exploration Session.
+    </div>
 </div>
  <div style="height:15px;"></div>
 
@@ -348,7 +351,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 8 (20MIN + 10MIN)
+      INVITED PRESENTATION 7 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
@@ -379,7 +382,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 2 (20MIN + 10MIN)
+      INVITED PRESENTATION 8 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
