@@ -23,23 +23,23 @@
   <tr style="border:20px;">
     <td rowspan="3" style="font-size:12px;padding:8px"><b>Ses. 1</b></td>
     <td style="font-size:12px;padding:8px">Opening</td>
-    <td style="font-size:12px;padding:8px">Prof. Hailong Liu</td>
-    <td style="font-size:12px;padding:8px">NAIST, Japan</td>
+    <td style="font-size:12px;padding:8px">Asst. Prof. Hao Cheng</td>
+    <td style="font-size:12px;padding:8px">Uni. of Twente, Netherlands</td>
     <td style="font-size:12px;padding:8px">Opening speaking</td>
     <td style="font-size:12px;padding:8px">09:00-09:10</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Invited speaker 1</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 1 (Online)</td>
     <td style="font-size:12px;padding:8px">Prof. Junmin Wang</td>
     <td style="font-size:12px;padding:8px">UT Austin, US</td>
     <td style="font-size:12px;padding:8px">Quantification of Driver Attentiveness and Impact of Visual Communication in Vehicle Lane-keeping Automation</td>
     <td style="font-size:12px;padding:8px">09:10-09:40</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Invited speaker 2</td>
-    <td style="font-size:12px;padding:8px">Prof. Jia Hu</td>
-    <td style="font-size:12px;padding:8px">Tongji Uni., China</td>
-    <td style="font-size:12px;padding:8px">Towards socially-aware autonomous driving: An interpretable data-driven perspective</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 2 (Online)</td>
+    <td style="font-size:12px;padding:8px">Prof. Takahiro Wada</td>
+    <td style="font-size:12px;padding:8px">NAIST, Japan</td>
+    <td style="font-size:12px;padding:8px">Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</td>
     <td style="font-size:12px;padding:8px">09:40-10:10</td>
   </tr>
   <tr style="background-color:lightgrey;border:20px;">
@@ -49,9 +49,9 @@
   <tr style="border:20px;">
     <td rowspan="3" style="font-size:12px;padding:8px"><b>Ses. 2</b></td>
     <td style="font-size:12px;padding:8px">Invited speaker 3</td>
-    <td style="font-size:12px;padding:8px">Prof. Takahiro Wada</td>
-    <td style="font-size:12px;padding:8px">NAIST, Japan</td>
-    <td style="font-size:12px;padding:8px">Computational Models of Human Self-motion Perception and Motion Sickness based on Subjective Vertical Mismatch Theory and Its Application to Vehicle Motion Comfort</td>
+    <td style="font-size:12px;padding:8px">Prof. Daofei Li</td>
+    <td style="font-size:12px;padding:8px">Zhejiang Uni., China</td>
+    <td style="font-size:12px;padding:8px">Human-centered approach to automated driving: from decision-making, motion planning to control</td>
     <td style="font-size:12px;padding:8px">10:30-11:00</td>
   </tr>
   <tr style="border:20px;">
@@ -63,48 +63,41 @@
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Invited speaker 5</td>
-    <td style="font-size:12px;padding:8px">Prof. Daofei Li</td>
-    <td style="font-size:12px;padding:8px">Zhejiang Uni., China</td>
-    <td style="font-size:12px;padding:8px">Human-centered approach to automated driving: from decision-making, motion planning to control
+    <td style="font-size:12px;padding:8px">Bo Jiang</td>
+    <td style="font-size:12px;padding:8px">HUST, China</td>
+    <td style="font-size:12px;padding:8px">Advancing E2E-AD via Multimodal Planning, Reinforced Fine-Tuning, and Language Modality Integration
 </td>
     <td style="font-size:12px;padding:8px">11:30-12:00</td>
   </tr>
  <tr style="background-color:lightgrey;border:20px;">
     <td colspan="5" style="font-size:12px;padding:8px"><b>Lunch break</b>
-   <td style="font-size:12px;padding:8px">12:00-13:00</td></td>
+   <td style="font-size:12px;padding:8px">12:00-13:30</td></td>
   </tr>
   <tr style="border:20px;">
-    <td rowspan="4" style="font-size:12px;padding:8px"><b>Ses. 3</b></td>
-    <td style="font-size:12px;padding:8px">Invited speaker 6</td>
-    <td style="font-size:12px;padding:8px">Prof. Hailong Liu</td>
-    <td style="font-size:12px;padding:8px">NAIST, Japan</td>
-    <td style="font-size:12px;padding:8px">Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs</td>
-    <td style="font-size:12px;padding:8px">13:00-13:30</td>
+    <td rowspan="3" style="font-size:12px;padding:8px"><b>Ses. 3</b></td>
+    <td style="font-size:12px;padding:8px">Invited speaker 8</td>
+    <td style="font-size:12px;padding:8px">Prof. Adriana Tapus, Dr. Shangguan Zhegong</td>
+    <td style="font-size:12px;padding:8px">ENSTA Paris, France</td>
+    <td style="font-size:12px;padding:8px">Beyond Signals: Touch, Emotion, and Arousal in Human Driving Behavior</td>
+    <td style="font-size:12px;padding:8px">13:30-14:15</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Invited speaker 7</td>
-    <td style="font-size:12px;padding:8px">Prof. Adriana Tapus</td>
-    <td style="font-size:12px;padding:8px">ENSTA Paris, France</td>
-    <td style="font-size:12px;padding:8px">TBD</td>
-    <td style="font-size:12px;padding:8px">13:30-14:00</td>
-  </tr>
-  <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Invited speaker 8</td>
     <td style="font-size:12px;padding:8px">Prof. Jianmin Wang</td>
     <td style="font-size:12px;padding:8px">Tongji Uni., China</td>
     <td style="font-size:12px;padding:8px">IXAI: Generative Design of Automotive Styling Based on Inception Convolution with Explainable AI</td>
-    <td style="font-size:12px;padding:8px">14:00-14:30</td>
+    <td style="font-size:12px;padding:8px">14:15-14:45</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Invited speaker 9</td>
-    <td style="font-size:12px;padding:8px">Bo Jiang</td>
-    <td style="font-size:12px;padding:8px">HUST, China</td>
-    <td style="font-size:12px;padding:8px">Advancing E2E-AD via Multimodal Planning, Reinforced Fine-Tuning, and Language Modality Integration</td>
-    <td style="font-size:12px;padding:8px">14:30-15:00</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 8</td>
+    <td style="font-size:12px;padding:8px">Prof. Tatsuya Mori</td>
+    <td style="font-size:12px;padding:8px">Waseda University, Tokyo, Japan</td>
+    <td style="font-size:12px;padding:8px">Security and Privacy of Connected Vehicles: Gaps in Perception among AI, Humans, and Developers</td>
+    <td style="font-size:12px;padding:8px">14:45-15:15</td>
   </tr>
  <tr style="background-color:lightgrey;border:20px;">
     <td colspan="5" style="font-size:12px;"><b>Coffee break</b>
-   <td style="font-size:12px;padding:8px">15:00-15:20</td></td>
+   <td style="font-size:12px;padding:8px">15:15-15:30</td></td>
   </tr>
   <tr style="border:20px;">
     <td rowspan="9" style="font-size:12px;padding:8px"><b>Ses. 4</b></td>
@@ -112,7 +105,7 @@
     <td style="font-size:12px;padding:8px">Zhenyu Wang, Jianmin Wang, Fang You</td>
     <td style="font-size:12px;padding:8px">Tongji University</td>
     <td style="font-size:12px;padding:8px">A Method for Modelling Human-Machine Co-Driving Semantic Perception and Interaction Agents Based on Multi-Modal Large Models</td>
-    <td style="font-size:12px;padding:8px">15:20-16:30</td>
+    <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Poster 2</td>
@@ -120,21 +113,21 @@
 Luciano Cavalcante Siebert, David Abbink, Arkady Zgonnikov</td>
     <td style="font-size:12px;padding:8px">TU Delft</td>
     <td style="font-size:12px;padding:8px">When Faster Isn’t Always Better: Between- and Within-Mode Effects of Reaction Time on Perceived Control in Shared Automated Driving.</td>
-    <td style="font-size:12px;padding:8px">15:20-16:30</td>
+    <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Poster 3</td>
     <td style="font-size:12px;padding:8px">Keke Long, Xiaowei Shi, Yang Li, Zhiwei Chen, Yuan Wang, Xiaopeng Li</td>
     <td style="font-size:12px;padding:8px">University of Wisconsin-Milwaukee,Drexel University,University of South Florida</td>
     <td style="font-size:12px;padding:8px">Before and after riding: changing comfort attitude towards autonomous shuttles from perspectives as riders, drivers, and pedestrians</td>
-       <td style="font-size:12px;padding:8px">15:20-16:30</td>
+       <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Poster 4</td>
     <td style="font-size:12px;padding:8px">Hanyang Zhuang, Longsheng Wang, Chunxiang Wang, Ming Yang</td>
     <td style="font-size:12px;padding:8px">Shanghai Jiao Tong University</td>
     <td style="font-size:12px;padding:8px">Human Machine Interface for Remote Takeover of Automated Vehicles.</td>
-       <td style="font-size:12px;padding:8px">15:20-16:30</td>
+       <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Poster 5</td>
@@ -148,14 +141,14 @@ Luciano Cavalcante Siebert, David Abbink, Arkady Zgonnikov</td>
     <td style="font-size:12px;padding:8px">Yunhao Cai, Yueying Chu, Peng Liu</td>
     <td style="font-size:12px;padding:8px">Zhejiang University</td>
     <td style="font-size:12px;padding:8px">Restoring Trust in Automated Vehicles: The Effect of Single Strategy and Combined Strategies</td>
-       <td style="font-size:12px;padding:8px">15:20-16:30</td>
+       <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
     <td style="font-size:12px;padding:8px">Poster 7</td>
     <td style="font-size:12px;padding:8px">Lan Lan, Yuchu Chen, Haizhou Gong. Haigen Min, Peng Liu</td>
     <td style="font-size:12px;padding:8px">Zhejiang University, Chang’an University</td>
     <td style="font-size:12px;padding:8px">Remote driving in the eyes of passengers</td>
-       <td style="font-size:12px;padding:8px">15:20-16:30</td>
+       <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
 
   <tr style="border:20px;">
@@ -222,21 +215,21 @@ Complementing this modeling perspective, we also explore the role of visual comm
     </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
-      <img src="/assets/committee/jia_Hu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <img src="/assets/committee/" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
-        <h3 style="margin:0; font-size:24px;">Prof. Dr. Jia Hu</h3>
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Prof. Dr. Tatsuya Mori</h3>
         <p style="margin-top:8px; font-style:italic;">The College of Transportation Engineering, Tongji University, China</p>
       </div>
     </div>
     <!-- Abstract -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-     Autonomous Driving (AD) vehicles still struggle to exhibit human-like behavior and socially interaction awareness in highly dynamic and interactive traffic scenarios. The key challenge lies in AD’s limited ability to interact with surrounding vehicles due to a lack of understanding of the underlying social interaction mechanisms. To address this issue, MPCFormer is introduced, which is an interpretable data-driven approach for socially-aware autonomous driving. To the best of the knowledge, MPCFormer is the first to explicitly model the dynamics of social interaction mechanism between vehicles. A novel interpretable data-driven modeling paradigm is introduced to ensure modeling interpretability. Afterwards, a socially-aware Transformer-based encoder-decoder architecture learns the social interaction dynamics from natural driving data. By integrating the learned social interaction dynamics into motion planning, the AD can proactively interact with surrounding vehicles. The planning safety is guaranteed by social interaction mechanism awareness and the safety constraints. Open-looped evaluation demonstrates that with the socially-aware capability, MPCFormer achieves the lowest trajectory prediction errors, from ADE@1s (0.12m) to ADE@5s (0.86m). Close-looped evaluation confirms the modeling interpretability of MPCFormer. Meanwhile, MPCFormer achieves the best planning success rate of 94.67%, improves driving efficiency by 15.75%, and saves lane change distance by 49.01%.
+     Autonomous and connected vehicles are redefining mobility, yet their reliance on machine perception and large-scale data collection introduces new security and privacy challenges. This talk introduces a series of our recent studies addressing these challenges from both technical and human perspectives. We first introduce Shadow Hack, an adversarial attack that manipulates naturally occurring object shadows in LiDAR point clouds to deceive object detection models. By optimizing shadow geometry and materials, Shadow Hack achieves near-perfect attack success, while our proposed BB-Validator defense provides complete mitigation. We then present the Adversarial Retroreflective Patch (ARP), a stealthy nighttime attack on traffic sign recognition that activates only under headlight illumination. ARP achieves over 93% attack success in physical environments, and our user study shows that participants perceived ARP-modified signs as nearly natural (average score 2.04 vs. 1.81 for benign signs), whereas conventional patch attacks were easily detected (≥3.69). We also explore privacy perceptions in connected vehicles through large-scale user surveys, revealing that sensitivity depends strongly on data type and user role. Biometric, audio, and visual data evoke the greatest concern, while drivers show higher tolerance than passengers and pedestrians. These findings highlight the importance of transparency and role-aware data practices for trustworthy autonomous mobility.
     </div>
     <!-- Biography -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-     Jia Hu works as a ZhongTe Distinguished Chair in Cooperative Automation in the College of Transportation Engineering at Tongji University. Before joining Tongji, he was a research associate at the Federal Highway Administration, USA (FHWA). He is an Associate Editor of the IEEE Transaction on Intelligent Transportation Systems, IEEE Transaction on Intelligent Vehicle, American Society of Civil Engineers Journal of Transportation Engineering, IEEE Open Journal in Intelligent Transportation Systems, an assistant editor of the Journal of Intelligent Transportation Systems, an advisory editorial board member for the Transportation Research Part C, an associate editor for IEEE Intelligent Vehicles Symposium since 2018, and an associate editor for IEEE Intelligent Transportation Systems Conference since 2019. Furthermore, he is a vice chair of the SAE-China Intelligent Transportation Committee.
+     Tatsuya Mori is currently a professor at Waseda University, Tokyo, Japan. He joined NTT laboratory in 1999 and moved to Waseda University in 2013. From July to December 2024, he was a visiting professor at the Politecnico di Milano. He has been engaged in research on network measurement, security, and privacy. He has received several best paper awards, including NDSS 2020, EuroUSEC 2021, and ACM ASIACCS 2025.
 </div>
 </div>
  <div style="height:15px;"></div>
