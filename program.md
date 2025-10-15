@@ -100,15 +100,8 @@
    <td style="font-size:12px;padding:8px">15:15-15:30</td></td>
   </tr>
   <tr style="border:20px;">
-    <td rowspan="9" style="font-size:12px;padding:8px"><b>Ses. 4</b></td>
+    <td rowspan="7" style="font-size:12px;padding:8px"><b>Ses. 4</b></td>
     <td style="font-size:12px;padding:8px">Poster 1</td>
-    <td style="font-size:12px;padding:8px">Zhenyu Wang, Jianmin Wang, Fang You</td>
-    <td style="font-size:12px;padding:8px">Tongji University</td>
-    <td style="font-size:12px;padding:8px">A Method for Modelling Human-Machine Co-Driving Semantic Perception and Interaction Agents Based on Multi-Modal Large Models</td>
-    <td style="font-size:12px;padding:8px">15:30-16:30</td>
-  </tr>
-  <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Poster 2</td>
     <td style="font-size:12px;padding:8px">Lucas Elbert Suryana, Ashwin George, Lorenzo Flipse, Simeon C. Calvert, Bart van Arem
 Luciano Cavalcante Siebert, David Abbink, Arkady Zgonnikov</td>
     <td style="font-size:12px;padding:8px">TU Delft</td>
@@ -116,35 +109,28 @@ Luciano Cavalcante Siebert, David Abbink, Arkady Zgonnikov</td>
     <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Poster 3</td>
+    <td style="font-size:12px;padding:8px">Poster 2</td>
     <td style="font-size:12px;padding:8px">Keke Long, Xiaowei Shi, Yang Li, Zhiwei Chen, Yuan Wang, Xiaopeng Li</td>
     <td style="font-size:12px;padding:8px">University of Wisconsin-Milwaukee,Drexel University,University of South Florida</td>
     <td style="font-size:12px;padding:8px">Before and after riding: changing comfort attitude towards autonomous shuttles from perspectives as riders, drivers, and pedestrians</td>
        <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Poster 4</td>
+    <td style="font-size:12px;padding:8px">Poster 3</td>
     <td style="font-size:12px;padding:8px">Hanyang Zhuang, Longsheng Wang, Chunxiang Wang, Ming Yang</td>
     <td style="font-size:12px;padding:8px">Shanghai Jiao Tong University</td>
     <td style="font-size:12px;padding:8px">Human Machine Interface for Remote Takeover of Automated Vehicles.</td>
        <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Poster 5</td>
-    <td style="font-size:12px;padding:8px">Masaki Kuge, Hailong Liu, Toshihiro Hiraoka, Takahiro Wada</td>
-    <td style="font-size:12px;padding:8px">Nara Institute of Science and Technology(NAIST)</td>
-    <td style="font-size:12px;padding:8px">An eHMI Presenting Request-to-Intervene Status of Level 3 Automated Vehicles to Surrounding Vehicles</td>
-       <td style="font-size:12px;padding:8px">15:20-16:30</td>
-  </tr>
-  <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Poster 6</td>
+    <td style="font-size:12px;padding:8px">Poster 4</td>
     <td style="font-size:12px;padding:8px">Yunhao Cai, Yueying Chu, Peng Liu</td>
     <td style="font-size:12px;padding:8px">Zhejiang University</td>
     <td style="font-size:12px;padding:8px">Restoring Trust in Automated Vehicles: The Effect of Single Strategy and Combined Strategies</td>
        <td style="font-size:12px;padding:8px">15:30-16:30</td>
   </tr>
   <tr style="border:20px;">
-    <td style="font-size:12px;padding:8px">Poster 7</td>
+    <td style="font-size:12px;padding:8px">Poster 5</td>
     <td style="font-size:12px;padding:8px">Lan Lan, Yuchu Chen, Haizhou Gong. Haigen Min, Peng Liu</td>
     <td style="font-size:12px;padding:8px">Zhejiang University, Chang’an University</td>
     <td style="font-size:12px;padding:8px">Remote driving in the eyes of passengers</td>
