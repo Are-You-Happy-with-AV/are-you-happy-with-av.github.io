@@ -75,7 +75,7 @@
   </tr>
   <tr style="border:20px;">
     <td rowspan="3" style="font-size:12px;padding:8px"><b>Ses. 3</b></td>
-    <td style="font-size:12px;padding:8px">Invited speaker 8</td>
+    <td style="font-size:12px;padding:8px">Invited speaker 6</td>
     <td style="font-size:12px;padding:8px">Prof. Adriana Tapus, Dr. Shangguan Zhegong</td>
     <td style="font-size:12px;padding:8px">ENSTA Paris, France</td>
     <td style="font-size:12px;padding:8px">Beyond Signals: Touch, Emotion, and Arousal in Human Driving Behavior</td>
@@ -207,37 +207,6 @@ Complementing this modeling perspective, we also explore the role of visual comm
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 2 (20MIN + 10MIN)
-    </div>
-    <!-- Subtitle -->
-    <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
-      Security and Privacy of Connected Vehicles: Gaps in Perception among AI, Humans, and Developers
-    </div>
-    <!-- Profile -->
-    <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
-      <img src="/assets/committee/" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
-      <div style="flex:1; min-width:200px;">
-        <h3 style="margin:0; font-size:24px;">Prof. Dr. Tatsuya Mori</h3>
-        <p style="margin-top:8px; font-style:italic;">Waseda University, Tokyo, Japan</p>
-      </div>
-    </div>
-    <!-- Abstract -->
-    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
-    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-     Autonomous and connected vehicles are redefining mobility, yet their reliance on machine perception and large-scale data collection introduces new security and privacy challenges. This talk introduces a series of our recent studies addressing these challenges from both technical and human perspectives. We first introduce Shadow Hack, an adversarial attack that manipulates naturally occurring object shadows in LiDAR point clouds to deceive object detection models. By optimizing shadow geometry and materials, Shadow Hack achieves near-perfect attack success, while our proposed BB-Validator defense provides complete mitigation. We then present the Adversarial Retroreflective Patch (ARP), a stealthy nighttime attack on traffic sign recognition that activates only under headlight illumination. ARP achieves over 93% attack success in physical environments, and our user study shows that participants perceived ARP-modified signs as nearly natural (average score 2.04 vs. 1.81 for benign signs), whereas conventional patch attacks were easily detected (≥3.69). We also explore privacy perceptions in connected vehicles through large-scale user surveys, revealing that sensitivity depends strongly on data type and user role. Biometric, audio, and visual data evoke the greatest concern, while drivers show higher tolerance than passengers and pedestrians. These findings highlight the importance of transparency and role-aware data practices for trustworthy autonomous mobility.
-    </div>
-    <!-- Biography -->
-    <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
-    <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-     Tatsuya Mori is currently a professor at Waseda University, Tokyo, Japan. He joined NTT laboratory in 1999 and moved to Waseda University in 2013. From July to December 2024, he was a visiting professor at the Politecnico di Milano. He has been engaged in research on network measurement, security, and privacy. He has received several best paper awards, including NDSS 2020, EuroUSEC 2021, and ACM ASIACCS 2025.
-</div>
-</div>
- <div style="height:15px;"></div>
- 
-  <!-- Speaker 3 -->
-  <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
-    <!-- Title -->
-    <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
       INVITED PRESENTATION 3 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
@@ -265,7 +234,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
 </div>
  <div style="height:15px;"></div>
  
-   <!-- Speaker 4 -->
+   <!-- Speaker 3 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
@@ -296,7 +265,7 @@ Complementing this modeling perspective, we also explore the role of visual comm
 </div>
  <div style="height:15px;"></div>
  
-  <!-- Speaker 5 -->
+  <!-- Speaker 4 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
@@ -327,50 +296,46 @@ Complementing this modeling perspective, we also explore the role of visual comm
 </div>
  <div style="height:15px;"></div>
 
-  <!-- Speaker 6 -->
+ <!-- Speaker 5 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 6 (20MIN + 10MIN)
+      INVITED PRESENTATION 9 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
-Causal Discovery from Psychological States to Walking Behaviors for Pedestrians Interacting an AV Equipped with eHMIs
-      </div>
+     Multimodal Understanding for Autonomous Driving
+    </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
-      <img src="/assets/committee/Hailong liu.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <img src="/assets/committee/bo_jiang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
-        <h3 style="margin:0; font-size:24px;">
-  <a href="https://www.researchgate.net/profile/Hailong-Liu-2" target="_blank" style="text-decoration:none; color:inherit;">
-    Asso. Prof. Dr. Hailong Liu
-  </a>
-</h3>
-    <p style="margin-top:8px; font-style:italic;">Graduate School of Science and Technology, NAIST, Japan</p>
+        <h3 style="margin:0; font-size:24px;">Bo Jiang</h3>
+        <p style="margin-top:8px; font-style:italic;">HUST Vision Lab, China</p>
       </div>
     </div>
     <!-- Abstract -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-   In recent years, autonomous driving systems have been applied not only to cars but also to smaller robotic mobility platforms, such as Autonomous Personal Mobility Vehicles (APMVs). These autonomous vehicles (AVs) frequently encounter pedestrians during automated driving, especially APMVs, which are typically used in sidewalks and other shared spaces. To enhance the interaction experience between pedestrians and autonomous vehicles (AVs) and to reduce potential risks, it is essential to investigate pedestrians’ walking behaviors in such encounters and to understand the underlying psychological processes. In this talk, I will first introduce a study that investigates the causal relationships between pedestrians’ subjective feelings and their walking behaviors during interactions with an APMV equipped with an external human–machine interface (eHMI). Based on the causal factors identified in this study, I will then present an approach for improving pedestrian–autonomous car interactions.
+   In this talk, I will present our recent research in several areas of autonomous driving (AD). I will begin with our latest multimodal end-to-end models, VADv2 and DiffusionDrive. Next, I will introduce RAD, a closed-loop, interactive reinforcement fine-tuning framework based on 3D Gaussian Splatting. Then, I will share our work on incorporating language modalities into AD. This includes Senna, a dual-system vision-language-action model, and AlphaDrive, a planning-oriented VLM based on RL and reasoning. Finally, I will outline our vision for future directions in driving-oriented VLAs and interactive driving enabled by language-based instructions.
     </div>
     <!-- Biography -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-    Hailong Liu (IEEE S'15 - M'19 - SM'25) received his M.Eng. and Ph.D. degrees in Engineering from Ritsumeikan University, Japan, in 2015 and 2018, respectively. From Apr. 2016 to Mar. 2018, he was a JSPS Research Fellow for Young Scientists (DC2). He worked as a researcher at Nagoya University from Apr. 2018 to Oct. 2021. In Nov. 2021, he joined Nara Institute of Science and Technology (NAIST), Japan, as an Assistant Professor and was promoted to Associate Professor in Feb. 2024. His research interests focus on human factors and machine learning in intelligent transportation systems. He is a Senior Member of IEEE and holds memberships in IEEE ITSS, IEEE RAS, and IEEE SMC. He also serves on the Human Factors in ITS Committee of IEEE ITSS. In addition, he is a member of JSAE, JSAI, and SICE.
+    Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, advised by Prof. Xinggang Wang and Prof. Wenyu Liu. His research focuses on autonomous driving and multimodal understanding. He has published 4 papers in top-tier conferences and journals, with over 840 citations on Google Scholar. His representative works include the VAD series and the MapTR series, which have garnered over 3k stars on GitHub and are widely used in both academia and industry.
 </div> 
 </div>
  <div style="height:15px;"></div>
 
-  <!-- Speaker 7 -->
+  <!-- Speaker 6 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 7 (20MIN + 10MIN)
+      INVITED PRESENTATION 7 (35MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
-    Title：TBD
+    Title：Beyond Signals: Touch, Emotion, and Arousal in Human Driving Behavior
     </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
@@ -393,7 +358,7 @@ Causal Discovery from Psychological States to Walking Behaviors for Pedestrians 
 </div>
  <div style="height:15px;"></div>
 
-  <!-- Speaker 8 -->
+  <!-- Speaker 7 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
@@ -424,33 +389,35 @@ Causal Discovery from Psychological States to Walking Behaviors for Pedestrians 
 </div>
  <div style="height:15px;"></div>
 
-  <!-- Speaker 9 -->
+ <!-- Speaker 8 -->
   <div style="border:2px solid #ccc; border-radius:12px; padding:25px; background:#fff; box-shadow:0 4px 15px rgba(0,0,0,0.1);"> 
     <!-- Title -->
     <div style="color:#b80000; font-weight:bold; margin-bottom:10px; font-size:16px; text-align:left;">
-      INVITED PRESENTATION 9 (20MIN + 10MIN)
+      INVITED PRESENTATION 2 (20MIN + 10MIN)
     </div>
     <!-- Subtitle -->
     <div style="font-size:26px; font-weight:bold; margin-bottom:20px; text-align:center;">
-     Multimodal Understanding for Autonomous Driving
+      Security and Privacy of Connected Vehicles: Gaps in Perception among AI, Humans, and Developers
     </div>
     <!-- Profile -->
     <div style="display:flex; flex-wrap:wrap; align-items:center; margin-bottom:20px;">
-      <img src="/assets/committee/bo_jiang.jpg" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
+      <img src="/assets/committee/Mori_240.png" alt="Speaker Photo" style="width:200px; max-width:100%; border-radius:10px; margin-right:20px; margin-bottom:10px;">
       <div style="flex:1; min-width:200px;">
-        <h3 style="margin:0; font-size:24px;">Bo Jiang</h3>
-        <p style="margin-top:8px; font-style:italic;">HUST Vision Lab, China</p>
+        <h3 style="margin:0; font-size:24px;">Prof. Dr. Tatsuya Mori</h3>
+        <p style="margin-top:8px; font-style:italic;">Waseda University, Tokyo, Japan</p>
       </div>
     </div>
     <!-- Abstract -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Abstract</div>
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-   In this talk, I will present our recent research in several areas of autonomous driving (AD). I will begin with our latest multimodal end-to-end models, VADv2 and DiffusionDrive. Next, I will introduce RAD, a closed-loop, interactive reinforcement fine-tuning framework based on 3D Gaussian Splatting. Then, I will share our work on incorporating language modalities into AD. This includes Senna, a dual-system vision-language-action model, and AlphaDrive, a planning-oriented VLM based on RL and reasoning. Finally, I will outline our vision for future directions in driving-oriented VLAs and interactive driving enabled by language-based instructions.
+     Autonomous and connected vehicles are redefining mobility, yet their reliance on machine perception and large-scale data collection introduces new security and privacy challenges. This talk introduces a series of our recent studies addressing these challenges from both technical and human perspectives. We first introduce Shadow Hack, an adversarial attack that manipulates naturally occurring object shadows in LiDAR point clouds to deceive object detection models. By optimizing shadow geometry and materials, Shadow Hack achieves near-perfect attack success, while our proposed BB-Validator defense provides complete mitigation. We then present the Adversarial Retroreflective Patch (ARP), a stealthy nighttime attack on traffic sign recognition that activates only under headlight illumination. ARP achieves over 93% attack success in physical environments, and our user study shows that participants perceived ARP-modified signs as nearly natural (average score 2.04 vs. 1.81 for benign signs), whereas conventional patch attacks were easily detected (≥3.69). We also explore privacy perceptions in connected vehicles through large-scale user surveys, revealing that sensitivity depends strongly on data type and user role. Biometric, audio, and visual data evoke the greatest concern, while drivers show higher tolerance than passengers and pedestrians. These findings highlight the importance of transparency and role-aware data practices for trustworthy autonomous mobility.
     </div>
     <!-- Biography -->
     <div style="font-weight:bold; margin-top:20px; margin-bottom:5px; font-size:16px; border-bottom:2px solid #ddd; padding-bottom:5px;">Biography</div>
     <div style="padding:15px; border-radius:10px; font-size:14px; line-height:1.33;">
-    Bo Jiang is a Ph.D. candidate at Huazhong University of Science and Technology, advised by Prof. Xinggang Wang and Prof. Wenyu Liu. His research focuses on autonomous driving and multimodal understanding. He has published 4 papers in top-tier conferences and journals, with over 840 citations on Google Scholar. His representative works include the VAD series and the MapTR series, which have garnered over 3k stars on GitHub and are widely used in both academia and industry.
-</div> 
+     Tatsuya Mori is currently a professor at Waseda University, Tokyo, Japan. He joined NTT laboratory in 1999 and moved to Waseda University in 2013. From July to December 2024, he was a visiting professor at the Politecnico di Milano. He has been engaged in research on network measurement, security, and privacy. He has received several best paper awards, including NDSS 2020, EuroUSEC 2021, and ACM ASIACCS 2025.
+</div>
 </div>
  <div style="height:15px;"></div>
+
+  
