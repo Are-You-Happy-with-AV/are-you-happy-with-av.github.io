@@ -76,7 +76,7 @@
   <tr style="border:20px;">
     <td rowspan="3" style="font-size:12px;padding:8px"><b>Ses. 3</b></td>
     <td style="font-size:12px;padding:8px">Invited speaker 6</td>
-    <td style="font-size:12px;padding:8px">Prof. Adriana Tapus, Dr. Shangguan Zhegong</td>
+    <td style="font-size:12px;padding:8px">Prof. Adriana Tapus, Dr. Zhegong Shangguan</td>
     <td style="font-size:12px;padding:8px">ENSTA Paris, France</td>
     <td style="font-size:12px;padding:8px">Beyond Signals: Touch, Emotion, and Arousal in Human Driving Behavior</td>
     <td style="font-size:12px;padding:8px">13:30-14:15</td>
